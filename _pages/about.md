@@ -46,7 +46,7 @@ My research interests primarily focus on <span style="color: #D9534F;">Robot lea
 
 ## 💼 Experience
 
-<table style="width:100%; border-collapse:collapse; border:none;">
+<table style="width:100%; border-collapse:collapse; border:none; font-size: 18px;">
   <tr style="border:none;">
     <td style="width:80px; border:none; vertical-align:top;">
       <img src="/images/thu.png" width="60" style="display:block; margin-top:5px;">
@@ -92,9 +92,9 @@ My research interests primarily focus on <span style="color: #D9534F;">Robot lea
 
 ## 🏆 Awards
 - **[2024.11]** <span style="color: #D9534F;">National Scholarship</span> (Top 0.2%)
-- **[2024.11]** <span style="color: #D9534F;">Annual Special Commendation</span> (年度特别嘉奖)
-- **[2023.12]** <span style="color: #D9534F;">First Prize of Aviation Industry Scholarship</span> (Top 2 in the university) 
-- **[2022.11]** <span style="color: #D9534F;">National Scholarship</span>
+- **[2024.11]** Annual Special Commendation
+- **[2023.12]** <span style="color: #D9534F;">First Prize of Aviation Industry Scholarship</span> (Top 2 in NUAA) 
+- **[2022.11]** <span style="color: #D9534F;">National Scholarship</span>  (Top 0.2%)
 - **[2021-2025]** More than 10 national and provincial awards in robotics competitions 
 
 ---
