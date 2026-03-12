@@ -7,18 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-👋 Welcome to my personal homepage! I am **Mingxin Wang**, currently a Master's student in the AI & Robot Lab at <span style="color: #D9534F;">Tsinghua University</span>, advised by Prof. Houde Liu. Prior to this, I received my Bachelor's degree in Robotics Engineering from Nanjing University of Aeronautics and Astronautics (NUAA), where I ranked first in my major (1/520).
+👋 Welcome to my personal homepage! I am **Mingxin Wang**, currently a Master's student in the AI & Robot Lab at <span style="color: #D9534F;">Tsinghua University</span>, advised by Prof. Houde Liu. Prior to this, I received my Bachelor's degree in Robotics Engineering from Nanjing University of Aeronautics and Astronautics (NUAA), where I ranked first in my college (1/520).
 
 My research interests primarily focus on <span style="color: #D9534F;">Robot learning and MLLM</span>. I am dedicated to enabling robots with more versatile and delicate perception and manipulation capabilities in the complex physical world.
 
 ---
 
 ## 🔥 News
-- **[2026.03]** Our paper *PhaForce* has been submitted to IROS 2026 as the first author!
-- **[2026.03]** Our paper *Push-Wiper* has been submitted to IROS 2026 as a co-first author!
-- **[2026.03]** Our paper *RRRR* has been submitted to ECCV 2026 as a co-first author!
+- **[2026.03]** <span style="color: #D9534F;">PhaForce</span>  & <span style="color: #D9534F;">Push-Wiper</span> submitted to IROS 2026.
+- **[2026.03]** <span style="color: #D9534F;">RRRR</span> submitted to ECCV 2026.
 - **[2025.09]** Started my Master's journey at the AI & Robot Lab, Tsinghua University.
-- **[2025.02]** Joined the Embodied Algorithm Group at 0-1 Robotics as a research intern.
 
 ---
 
