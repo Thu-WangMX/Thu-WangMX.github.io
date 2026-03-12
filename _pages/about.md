@@ -21,45 +21,52 @@ My research interests primarily focus on <span style="color: #D9534F;">Robot lea
 ---
 
 ## 📝 Publications
-## 📝 Publications
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; gap: 20px;">
-  <img src="/images/phaforce.png" alt="PhaForce" style="width: 120px; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 8px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 24px; gap: 24px;">
+  <img src="/images/phaforce.png" alt="PhaForce" style="width: 150px; height: 100px; object-fit: cover; flex-shrink: 0; border-radius: 8px;">
   <div>
-    <span style="color: #D9534F; font-weight: bold; font-size: 1.1em;">PhaForce: Phase-Scheduled Visual-Force Policy Learning with Slow Planning and Fast Correction for Contact-Rich Manipulation</span><br>
-    <b>Mingxin Wang (First Author)</b>, et al.<br>
-    <i>Submitted to IROS 2026</i><br>
-    Proposes a phase-scheduled visual-force policy that integrates low-frequency diffusion planning and high-frequency residual correction for contact-rich robotic manipulation tasks.
+    <span style="color: #D9534F; font-weight: bold; font-size: 1.2em;">PhaForce: Phase-Scheduled Visual-Force Policy Learning with Slow Planning and Fast Correction for Contact-Rich Manipulation</span><br>
+    <div style="margin-top: 4px;">
+      <b>Mingxin Wang (First Author)</b>, et al.<br>
+      <i>Submitted to IROS 2026</i><br>
+      Proposes a phase-scheduled visual-force policy that integrates low-frequency diffusion planning and high-frequency residual correction for contact-rich robotic manipulation tasks.
+    </div>
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; gap: 20px;">
-  <img src="/images/push-wiper.png" alt="Push-Wiper" style="width: 120px; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 8px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 24px; gap: 24px;">
+  <img src="/images/push-wiper.png" alt="Push-Wiper" style="width: 150px; height: 100px; object-fit: cover; flex-shrink: 0; border-radius: 8px;">
   <div>
-    <span style="color: #D9534F; font-weight: bold; font-size: 1.1em;">Push-Wiper: Toward General-Purpose Robotic Cleaning across Varied Stains and Surfaces with Segmented Pushing Trajectories</span><br>
-    <b>Mingxin Wang* (Co-First Author)</b>, et al.<br>
-    <i>Submitted to IROS 2026</i><br>
-    Redefines viscous stain cleaning as an aggregation-post-processing task and enables zero-shot generalization for robotic cleaning on unseen stains and surfaces.
+    <span style="color: #D9534F; font-weight: bold; font-size: 1.2em;">Push-Wiper: Toward General-Purpose Robotic Cleaning across Varied Stains and Surfaces with Segmented Pushing Trajectories</span><br>
+    <div style="margin-top: 4px;">
+      <b>Mingxin Wang* (Co-First Author)</b>, et al.<br>
+      <i>Submitted to IROS 2026</i><br>
+      Redefines viscous stain cleaning as an aggregation-post-processing task and enables zero-shot generalization for robotic cleaning on unseen stains and surfaces.
+    </div>
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; gap: 20px;">
-  <img src="/images/rrrr.png" alt="RRRR" style="width: 120px; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 8px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 24px; gap: 24px;">
+  <img src="/images/rrrr.png" alt="RRRR" style="width: 150px; height: 100px; object-fit: cover; flex-shrink: 0; border-radius: 8px;">
   <div>
-    <span style="color: #D9534F; font-weight: bold; font-size: 1.1em;">RRRR: Rapid Real-World Residual RL for Multi-Task VLA Adaptation</span><br>
-    <b>Mingxin Wang* (Co-First Author)</b>, et al.<br>
-    <i>Submitted to ECCV 2026</i><br>
-    Presents a hybrid SFT+Residual RL framework to mitigate catastrophic forgetting and task interference in multi-task real-world VLA deployment.
+    <span style="color: #D9534F; font-weight: bold; font-size: 1.2em;">RRRR: Rapid Real-World Residual RL for Multi-Task VLA Adaptation</span><br>
+    <div style="margin-top: 4px;">
+      <b>Mingxin Wang* (Co-First Author)</b>, et al.<br>
+      <i>Submitted to ECCV 2026</i><br>
+      Presents a hybrid SFT+Residual RL framework to mitigate catastrophic forgetting and task interference in multi-task real-world VLA deployment.
+    </div>
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; gap: 20px;">
-  <img src="/images/stamp.png" alt="STAMP" style="width: 120px; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 8px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 24px; gap: 24px;">
+  <img src="/images/stamp.png" alt="STAMP" style="width: 150px; height: 100px; object-fit: cover; flex-shrink: 0; border-radius: 8px;">
   <div>
-    <span style="color: #D9534F; font-weight: bold; font-size: 1.1em;">STAMP: Spatio-Temporal Augmented Memory Policy for Robotic Manipulation</span><br>
-    Zhirun Yue, <b>Mingxin Wang</b>, et al.<br>
-    <i>Submitted to IJCNN 2026</i><br>
-    Introduces a spatio-temporal augmented memory policy with a hierarchical memory pyramid for robust robotic manipulation in complex scenarios.
+    <span style="color: #D9534F; font-weight: bold; font-size: 1.2em;">STAMP: Spatio-Temporal Augmented Memory Policy for Robotic Manipulation</span><br>
+    <div style="margin-top: 4px;">
+      Zhirun Yue, <b>Mingxin Wang</b>, et al.<br>
+      <i>Submitted to IJCNN 2026</i><br>
+      Introduces a spatio-temporal augmented memory policy with a hierarchical memory pyramid for robust robotic manipulation in complex scenarios.
+    </div>
   </div>
 </div>
 ---
