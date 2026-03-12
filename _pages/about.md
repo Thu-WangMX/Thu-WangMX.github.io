@@ -7,12 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-👋 Welcome to my personal homepage! I am **Mingxin Wang**, currently a Master's student in the AI & Robot Lab at Tsinghua University, majoring in Electronic Information (Artificial Intelligence). Prior to this, I received my Bachelor's degree in Robotics Engineering from Nanjing University of Aeronautics and Astronautics (NUAA), where I ranked first in my major (1/520).
+👋 Welcome to my personal homepage! I am **Mingxin Wang**, currently a Master's student in the AI & Robot Lab at <span style="color: #D9534F;">Tsinghua University</span>, advised by Prof. Houde Liu. Prior to this, I received my Bachelor's degree in Robotics Engineering from Nanjing University of Aeronautics and Astronautics (NUAA), where I ranked first in my major (1/520).
 
-My research interests primarily focus on **Embodied AI**, **Robotics**, **Vision-Language-Action (VLA) models**, **Reinforcement Learning (RL)**, and **Contact-rich Manipulation**. I am dedicated to enabling robots with more versatile and delicate perception and manipulation capabilities in the complex physical world.
-My research interests primarily focus on **<span style="color: #E74C3C;">Embodied AI</span>**, **<span style="color: #E74C3C;">Robotics</span>**, **<span style="color: #E74C3C;">Vision-Language-Action (VLA) models</span>**, **<span style="color: #E74C3C;">Reinforcement Learning (RL)</span>**, and **<span style="color: #E74C3C;">Contact-rich Manipulation</span>**.
-
-Currently, I am an Algorithm Intern in the Embodied AI Department at 0-1 Robotics (Shenzhen) Co., Ltd., focusing on force-aware policies, real-world residual RL for VLA models, and general-purpose surface cleaning algorithms.
+My research interests primarily focus on <span style="color: #D9534F;">Robot learning and MLLM</span>. I am dedicated to enabling robots with more versatile and delicate perception and manipulation capabilities in the complex physical world.
 
 ---
 
