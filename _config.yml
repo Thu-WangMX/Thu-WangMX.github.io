@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Mingxin Wang"
   pronouns         : # example: "she/her"  
-  bio              : "First-year Master's student in Robotics at Tsinghua University. Research interests include Vision-Language-Action (VLA) models, Reinforcement Learning, and force-aware manipulation."
+  bio              : "First-year Master's student in Robotics at Tsinghua University."
   location         : "Shenzhen, China"
   employer         : "Tsinghua University"
   uri              : # URL
