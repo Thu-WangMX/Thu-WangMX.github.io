@@ -22,7 +22,7 @@ repository               : "Thu-WangMX/Thu-WangMX.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Mingxin Wang"
   pronouns         : # example: "she/her"  
   bio              : "First-year Master's student in Robotics at Tsinghua University. Research interests include Vision-Language-Action (VLA) models, Reinforcement Learning, and force-aware manipulation."
