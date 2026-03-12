@@ -21,26 +21,10 @@ My research interests primarily focus on <span style="color: #D9534F;">Robot lea
 ---
 
 ## 📝 Publications
-*\* denotes equal contribution*
-
-- **PhaForce: Phase-Scheduled Visual-Force Policy Learning with Slow Planning and Fast Correction for Contact-Rich Manipulation**
-  <br> **Mingxin Wang**, [Please add other authors here]
-  <br> *Submitted to IROS 2026*
-  <br> We propose PhaForce, a phase-scheduled visual-force policy that combines low-frequency diffusion planning with high-frequency residual force correction to address the low update frequency and lack of phase awareness in traditional vision-based policies for contact-rich tasks.
-
-- **Push-Wiper: Toward General-Purpose Robotic Cleaning across Varied Stains and Surfaces with Segmented Pushing Trajectories**
-  <br> **Mingxin Wang***, [Please add other authors here]
-  <br> *Submitted to IROS 2026*
-  <br> We redefine viscous stain cleaning as an "aggregation-post-processing" problem. By combining a low-frequency Diffusion Policy with a hybrid force-position controller, this framework achieves high-precision constant force tracking and successful zero-shot generalization to unseen stains and surfaces.
-
-- **RRRR: Rapid Real-World Residual RL for Multi-Task VLA Adaptation**
-  <br> **Mingxin Wang***, [Please add other authors here]
-  <br> *Submitted to ECCV 2026*
-  <br> We propose a hybrid policy framework of "SFT Base Policy + Residual RL". By feeding single-task residual policy experiences back into a shared multi-task Pi0.5 backbone, we effectively mitigate catastrophic forgetting and interference in multi-task real-world VLA deployment.
-
-- **STAMP: Spatio-Temporal Augmented Memory Policy for Robotic Manipulation**
-  <br> [Please add the first author here], **Mingxin Wang**, [Please add other authors here]
-  <br> *Submitted to IJCNN 2026*
+<div style="display: flex; align-items: flex-start; margin-bottom: 16px; gap: 12px;"><img src="phaforce.png" alt="PhaForce" style="width: 80px; height: 80px; object-fit: cover; flex-shrink: 0;"><div><b>PhaForce: Phase-Scheduled Visual-Force Policy Learning with Slow Planning and Fast Correction for Contact-Rich Manipulation</b><br><b>Mingxin Wang (First Author)</b>, et al.<br><i>Submitted to IROS 2026</i><br>Proposes a phase-scheduled visual-force policy that integrates low-frequency diffusion planning and high-frequency residual force correction for contact-rich robotic manipulation tasks.</div></div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 16px; gap: 12px;"><img src="push-wiper.png" alt="Push-Wiper" style="width: 80px; height: 80px; object-fit: cover; flex-shrink: 0;"><div><b>Push-Wiper: Toward General-Purpose Robotic Cleaning across Varied Stains and Surfaces with Segmented Pushing Trajectories</b><br><b>Mingxin Wang* (Co-First Author)</b>, et al.<br><i>Submitted to IROS 2026</i><br>Redefines viscous stain cleaning as an aggregation-post-processing task and enables zero-shot generalization for robotic cleaning on unseen stains and surfaces.</div></div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 16px; gap: 12px;"><img src="rrrr.png" alt="RRRR" style="width: 80px; height: 80px; object-fit: cover; flex-shrink: 0;"><div><b>RRRR: Rapid Real-World Residual RL for Multi-Task VLA Adaptation</b><br><b>Mingxin Wang* (Co-First Author)</b>, et al.<br><i>Submitted to ECCV 2026</i><br>Presents a hybrid SFT+Residual RL framework to mitigate catastrophic forgetting and task interference in multi-task real-world VLA deployment.</div></div>
+<div style="display: flex; align-items: flex-start; gap: 12px;"><img src="stamp.png" alt="STAMP" style="width: 80px; height: 80px; object-fit: cover; flex-shrink: 0;"><div><b>STAMP: Spatio-Temporal Augmented Memory Policy for Robotic Manipulation</b><br>First Author, et al., <b>Mingxin Wang (Author)</b>, et al.<br><i>Submitted to IJCNN 2026</i><br>Introduces a spatio-temporal augmented memory policy with a hierarchical memory pyramid for robust robotic manipulation in complex scenarios.</div></div>
 
 ---
 
@@ -78,7 +62,7 @@ My research interests primarily focus on <span style="color: #D9534F;">Robot lea
       <img src="/images/nuaa.png" width="60" style="display:block; margin-top:5px;">
     </td>
     <td style="border:none; vertical-align:top;">
-      <strong>Nanjing University of Aeronautics and Astronautics (NUAA)</strong> | B.Eng. in Robotics Engineering <br>
+      <strong>Nanjing University of Aeronautics and Astronautics</strong> | B.Eng. in Robotics Engineering <br>
       <em>2021.09 - 2025.06</em>
       <ul>
         <li>Rank: 1/520 (First in college)</li>
