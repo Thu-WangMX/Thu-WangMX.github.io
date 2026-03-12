@@ -45,11 +45,48 @@ My research interests primarily focus on <span style="color: #D9534F;">Robot lea
 ---
 
 ## 💼 Experience
-- **0-1 Robotics (Shenzhen) Co., Ltd.** | Embodied Algorithm Intern
-  <br> *2025.02 - 2026.03*
-  - Developed a force-aware slow-fast imitation learning framework and a general-purpose embodied surface cleaning algorithm.
-  - Conducted real-world residual RL research for VLA backbones (Pi0/Pi0.5) based on the HIL-SERL framework.
-  - Familiar with the complete embodied AI pipeline from data collection and training to deployment, achieving efficient deployment on platforms like Franka and UR5e.
+
+<table style="width:100%; border-collapse:collapse; border:none;">
+  <tr style="border:none;">
+    <td style="width:80px; border:none; vertical-align:top;">
+      <img src="/images/thu.png" width="60" style="display:block; margin-top:5px;">
+    </td>
+    <td style="border:none; vertical-align:top;">
+      <strong>Tsinghua University</strong> | M.Sc. in Artificial Intelligence <br>
+      <em>2025.09 - Present</em>
+      <ul>
+        <li>Research focus: VLA, Multimodal Large Language Models (MLLM)</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr style="border:none;">
+    <td style="width:80px; border:none; vertical-align:top;">
+      <img src="/images/zerith.png" width="60" style="display:block; margin-top:5px;">
+    </td>
+    <td style="border:none; vertical-align:top;">
+      <strong>Zerith Robotics</strong> | Embodied Algorithm Intern <br>
+      <em>2025.03 - 2026.03</em>
+      <ul>
+        <li>Research focus: VLA, Reinforcement Learning (RL)</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr style="border:none;">
+    <td style="width:80px; border:none; vertical-align:top;">
+      <img src="/images/nuaa.png" width="60" style="display:block; margin-top:5px;">
+    </td>
+    <td style="border:none; vertical-align:top;">
+      <strong>Nanjing University of Aeronautics and Astronautics (NUAA)</strong> | B.Eng. in Robotics Engineering <br>
+      <em>2021.09 - 2025.06</em>
+      <ul>
+        <li>Rank: 1/520 (First in college)</li>
+        <li>Research focus: Robot compliance control</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
