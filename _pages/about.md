@@ -90,12 +90,12 @@ My research interests primarily focus on <span style="color: #D9534F;">Robot lea
 
 ---
 
-## 🎓 Education
-- **Tsinghua University** | M.E. in Electronic Information (Artificial Intelligence)
-  <br> *2025.09 - 2028.06* | GPA: 3.8/4.0
-- **Nanjing University of Aeronautics and Astronautics (NUAA)** | B.E. in Robotics Engineering
-  <br> *2021.09 - 2025.06* | GPA: 4.3/5.0, Rank: 1/520
-  - *Honors*: National Scholarship (Twice), First Prize of Aviation Industry Scholarship (Top 2 in the university). Accumulated over 10 national and provincial awards in robotics competitions.
+## 🏆 Awards
+- **[2024.11]** <span style="color: #D9534F;">National Scholarship</span> (Top 0.2%)
+- **[2024.11]** <span style="color: #D9534F;">Annual Special Commendation</span> (年度特别嘉奖)
+- **[2023.12]** <span style="color: #D9534F;">First Prize of Aviation Industry Scholarship</span> (Top 2 in the university) 
+- **[2022.11]** <span style="color: #D9534F;">National Scholarship</span>
+- **[2021-2025]** More than 10 national and provincial awards in robotics competitions 
 
 ---
 
