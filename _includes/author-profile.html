@@ -90,6 +90,12 @@
       {% endif %}      
 
       <!-- Font Awesome icons / Social media -->
+      {% if author.wechat %}
+        <li><i class="fab fa-fw fa-weixin" aria-hidden="true"></i> WeChat: {{ author.wechat }}</li>
+      {% endif %}
+      {% if author.xiaohongshu %}
+        <li><a href="https://www.xiaohongshu.com/user/profile/{{ author.xiaohongshu }}"><i class="fas fa-fw fa-book" aria-hidden="true"></i> 小红书</a></li>
+      {% endif %}
       {% if author.artstation %}
         <li><a href="https://www.artstation.com/{{ author.artstation }}"><i class="fab fa-fw fa-artstation icon-pad-right" aria-hidden="true"></i>Artstation</a></li>
       {% endif %}        
