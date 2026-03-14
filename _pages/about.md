@@ -11,6 +11,8 @@ redirect_from:
 
 My research interests primarily focus on <span style="color: #D9534F;">Robot learning and MLLM</span>. I am dedicated to enabling robots with more versatile and delicate perception and manipulation capabilities in the complex physical world.
 
+Feel free to contact me!
+
 ---
 
 ## 🔥 News
@@ -118,6 +120,7 @@ My research interests primarily focus on <span style="color: #D9534F;">Robot lea
 ---
 
 ## 🏆 Awards
+- **[2025.06]** <span style="color: #D9534F;">Outstanding Undergraduate Graduate</span>
 - **[2024.11]** <span style="color: #D9534F;">National Scholarship</span> (Top 0.2%)
 - **[2024.11]** Annual Special Commendation
 - **[2023.12]** <span style="color: #D9534F;">First Prize of Aviation Industry Scholarship</span> (Top 2 in NUAA) 
