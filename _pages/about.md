@@ -9,9 +9,9 @@ redirect_from:
 
 👋 Welcome to my personal homepage! I am **Mingxin Wang**, currently a Master's student in the AI & Robot Lab at <span style="color: #D9534F;">Tsinghua University</span>, advised by Prof. Houde Liu. Prior to this, I received my Bachelor's degree in Robotics Engineering from Nanjing University of Aeronautics and Astronautics (NUAA), where I ranked first in my college (1/520).
 
-My research interests primarily focus on <span style="color: #D9534F;">Robot learning and MLLM</span>. I am dedicated to enabling robots with more versatile and delicate perception and manipulation capabilities in the complex physical world.
+🔬 My research interests primarily focus on <span style="color: #D9534F;">Robot learning and MLLM</span>. I am dedicated to enabling robots with more versatile and delicate perception and manipulation capabilities in the complex physical world. 
 
-Feel free to contact me!
+🤖 Currently, I am a MLLM Algorithm Intern at the Visual Technology Center of Amap, Alibaba Group. Feel free to contact me!
 
 ---
 
