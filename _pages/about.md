@@ -65,7 +65,7 @@ Feel free to contact me!
     </td>
     <td style="border:none; vertical-align:top;">
       <strong>Alibaba Group - Amap</strong> | Multimodal LLM Algorithm Intern <br>
-      <em>2026.xx - Present</em>
+      <em>2026.03 - Present</em>
       <ul>
         <li>Focus on World Models, Video Generation, and Multimodal Learning</li>
       </ul>
