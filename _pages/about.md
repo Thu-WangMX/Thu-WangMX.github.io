@@ -22,7 +22,7 @@ Feel free to contact me!
 
 ---
 
-## 💼 Experience
+## 🎓 Education
 
 <table style="width:100%; border-collapse:collapse; border:none; font-size: 18px;">
   <tr style="border:none;">
@@ -40,19 +40,6 @@ Feel free to contact me!
 
   <tr style="border:none;">
     <td style="width:80px; border:none; vertical-align:top;">
-      <img src="/images/zerith.png" width="60" style="display:block; margin-top:5px;">
-    </td>
-    <td style="border:none; vertical-align:top;">
-      <strong>Zerith Robotics</strong> | Embodied Algorithm Intern <br>
-      <em>2025.03 - 2026.03</em>
-      <ul>
-        <li>Research focus: VLA, Reinforcement Learning (RL)</li>
-      </ul>
-    </td>
-  </tr>
-
-  <tr style="border:none;">
-    <td style="width:80px; border:none; vertical-align:top;">
       <img src="/images/nuaa.png" width="60" style="display:block; margin-top:5px;">
     </td>
     <td style="border:none; vertical-align:top;">
@@ -64,6 +51,40 @@ Feel free to contact me!
       </ul>
     </td>
   </tr>
+</table>
+
+---
+
+## 💼 Experience
+
+<table style="width:100%; border-collapse:collapse; border:none; font-size: 18px;">
+
+  <tr style="border:none;">
+    <td style="width:80px; border:none; vertical-align:top;">
+      <img src="/images/alibaba.png" width="60" style="display:block; margin-top:5px;">
+    </td>
+    <td style="border:none; vertical-align:top;">
+      <strong>Alibaba Group - Amap</strong> | Multimodal LLM Algorithm Intern <br>
+      <em>2026.xx - Present</em>
+      <ul>
+        <li>Focus on World Models, Video Generation, and Multimodal Learning</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr style="border:none;">
+    <td style="width:80px; border:none; vertical-align:top;">
+      <img src="/images/zerith.png" width="60" style="display:block; margin-top:5px;">
+    </td>
+    <td style="border:none; vertical-align:top;">
+      <strong>Zerith Robotics</strong> | Embodied Algorithm Intern <br>
+      <em>2025.03 - 2026.03</em>
+      <ul>
+        <li>Research focus: VLA, Reinforcement Learning (RL)</li>
+      </ul>
+    </td>
+  </tr>
+
 </table>
 
 ---
