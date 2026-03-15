@@ -67,7 +67,7 @@ Feel free to contact me!
       <strong>Alibaba Group - Amap</strong> | Multimodal LLM Algorithm Intern <br>
       <em>2026.03 - Present</em>
       <ul>
-        <li>Focus on World Models, Video Generation, and Multimodal Learning</li>
+        <li>Research focus: World Models, Video Generation, and Multimodal Learning</li>
       </ul>
     </td>
   </tr>
