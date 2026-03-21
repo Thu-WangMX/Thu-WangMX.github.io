@@ -11,11 +11,12 @@ redirect_from:
 
 🔬 My research interests primarily focus on <span style="color: #D9534F;">Robot learning and MLLM</span>. I am dedicated to enabling robots with more versatile and delicate perception and manipulation capabilities in the complex physical world. 
 
-🤖 Currently, I am a MLLM Algorithm Intern at the Visual Technology Center of Amap, Alibaba Group. Feel free to contact me!
+🤖 Currently, I am a MLLM Algorithm Intern at the CV Lab of Amap, Alibaba Group. Feel free to contact me!
 
 ---
 
 ## 🔥 News
+- **[2026.03]** <span style="color: #D9534F;">STAMP</span> is accepted to IJCNN 2026.
 - **[2026.03]** <span style="color: #D9534F;">PhaForce</span>  & <span style="color: #D9534F;">Push-Wiper</span> are submitted to IROS 2026.
 - **[2026.03]** <span style="color: #D9534F;">RRRR</span> is submitted to ECCV 2026.
 - **[2025.09]** Started my Master's journey at the AI & Robot Lab, Tsinghua University.
@@ -133,7 +134,7 @@ redirect_from:
     <div style="color: #D9534F; font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;">STAMP: Spatio-Temporal Augmented Memory Policy for Robotic Manipulation</div>
     <div style="font-size: 1.05em;">
       Zhirun Yue, <b>Mingxin Wang</b>, et al.<br>
-      <i>Submitted to IJCNN 2026</i><br>
+      <i>Accepted to IJCNN 2026</i><br>
       <p style="margin-top: 8px; color: #555; line-height: 1.5;">Introduces a spatio-temporal augmented memory policy with a hierarchical memory pyramid for robust robotic manipulation in complex scenarios.</p>
     </div>
   </div>
