@@ -121,7 +121,7 @@ redirect_from:
   <div style="flex: 1;">
     <div style="color: #D9534F; font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;">RRRR: Rapid Real-World Residual RL for Multi-Task VLA Adaptation</div>
     <div style="font-size: 1.05em;">
-      <b>Mingxin Wang* (Co-First Author)</b>, et al.<br>
+      <b>Mingxin Wang</b>, et al.<br>
       <i>Submitted to ECCV 2026</i><br>
       <p style="margin-top: 8px; color: #555; line-height: 1.5;">Presents a hybrid SFT+Residual RL framework to mitigate catastrophic forgetting and task interference in multi-task real-world VLA deployment.</p>
     </div>
