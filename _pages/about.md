@@ -68,7 +68,7 @@ redirect_from:
       <strong>Alibaba Group - Amap</strong> | Multimodal LLM Algorithm Intern <br>
       <em>2026.03 - Present</em>
       <ul>
-        <li>Research focus: World Models, Video Generation, and Multimodal Learning</li>
+        <li>Research focus: World Model & World Action Model</li>
       </ul>
     </td>
   </tr>
@@ -81,7 +81,7 @@ redirect_from:
       <strong>Zerith Robotics</strong> | Embodied Algorithm Intern <br>
       <em>2025.03 - 2026.03</em>
       <ul>
-        <li>Research focus: VLA, Reinforcement Learning (RL)</li>
+        <li>Research focus: VLA, RL, contact-rich manipulation</li>
       </ul>
     </td>
   </tr>
