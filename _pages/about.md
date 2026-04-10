@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 Welcome to my personal homepage! I am **Mingxin Wang**, currently a Master's student in the AI & Robot Lab at <a href="https://www.tsinghua.edu.cn/" target="_blank" rel="noopener noreferrer"><span style="color: #D9534F;">Tsinghua University</span></a>, advised by <a href="https://www.sigs.tsinghua.edu.cn/lhd/main.psp" target="_blank" rel="noopener noreferrer">Prof. Houde Liu</a>. Prior to this, I received my Bachelor's degree in Robotics Engineering from <a href="https://www.nuaa.edu.cn/" target="_blank" rel="noopener noreferrer">Nanjing University of Aeronautics and Astronautics (NUAA)</a>, where I ranked first in my college (1/520).
+👋 Welcome to my personal homepage! I am **Mingxin Wang**, currently a Master's student in the AI & Robot Lab at <a href="https://www.tsinghua.edu.cn/" target="_blank" rel="noopener noreferrer">Tsinghua University</a>, advised by <a href="https://www.sigs.tsinghua.edu.cn/lhd/main.psp" target="_blank" rel="noopener noreferrer">Prof. Houde Liu</a>. Prior to this, I received my Bachelor's degree in Robotics Engineering from <a href="https://www.nuaa.edu.cn/" target="_blank" rel="noopener noreferrer">Nanjing University of Aeronautics and Astronautics (NUAA)</a>, where I ranked first in my college (1/520).
 
 🔬 My research interests primarily focus on <span style="color: #D9534F;">Robot learning and MLLM</span>. I am dedicated to enabling robots with more versatile and delicate perception and manipulation capabilities in the complex physical world.
 
