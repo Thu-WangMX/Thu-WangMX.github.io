@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-👋 Welcome to my personal homepage! I am **Mingxin Wang**, currently a Master's student in the AI & Robot Lab at <span style="color: #D9534F;">Tsinghua University</span>, advised by Prof. Houde Liu. Prior to this, I received my Bachelor's degree in Robotics Engineering from Nanjing University of Aeronautics and Astronautics (NUAA), where I ranked first in my college (1/520).
+👋 Welcome to my personal homepage! I am **Mingxin Wang**, currently a Master's student in the AI & Robot Lab at <a href="https://www.tsinghua.edu.cn/" target="_blank" rel="noopener noreferrer"><span style="color: #D9534F;">Tsinghua University</span></a>, advised by <a href="https://www.sigs.tsinghua.edu.cn/lhd/main.psp" target="_blank" rel="noopener noreferrer">Prof. Houde Liu</a>. Prior to this, I received my Bachelor's degree in Robotics Engineering from <a href="https://www.nuaa.edu.cn/" target="_blank" rel="noopener noreferrer">Nanjing University of Aeronautics and Astronautics (NUAA)</a>, where I ranked first in my college (1/520).
 
-🔬 My research interests primarily focus on <span style="color: #D9534F;">Robot learning and MLLM</span>. I am dedicated to enabling robots with more versatile and delicate perception and manipulation capabilities in the complex physical world. 
+🔬 My research interests primarily focus on <span style="color: #D9534F;">Robot learning and MLLM</span>. I am dedicated to enabling robots with more versatile and delicate perception and manipulation capabilities in the complex physical world.
 
-🤖 Currently, I am a MLLM Algorithm Intern at the CV Lab of Amap, Alibaba Group. Feel free to contact me!
+🤖 Currently, I am a MLLM Algorithm Intern at the <a href="https://www.amap.com/" target="_blank" rel="noopener noreferrer">CV Lab of Amap, Alibaba Group.</a> Feel free to contact me!
 
 ---
 
@@ -65,7 +65,7 @@ redirect_from:
       <img src="/images/alibaba.png" width="60" style="display:block; margin-top:5px;">
     </td>
     <td style="border:none; vertical-align:top;">
-      <strong>Alibaba Group - Amap</strong> | Multimodal LLM Algorithm Intern <br>
+      <a href="https://re.1688.com/" target="_blank" rel="noopener noreferrer"><strong>Alibaba Group - Amap</strong></a> | Multimodal LLM Algorithm Intern <br>
       <em>2026.03 - Present</em>
       <ul>
         <li>Research focus: World Model & World Action Model</li>
@@ -78,7 +78,7 @@ redirect_from:
       <img src="/images/zerith.png" width="60" style="display:block; margin-top:5px;">
     </td>
     <td style="border:none; vertical-align:top;">
-      <strong>Zerith Robotics</strong> | Embodied Algorithm Intern <br>
+      <a href="https://www.zerith.com/" target="_blank" rel="noopener noreferrer"><strong>Zerith Robotics</strong></a> | Embodied Algorithm Intern <br>
       <em>2025.03 - 2026.03</em>
       <ul>
         <li>Research focus: VLA, RL, contact-rich manipulation</li>
