@@ -17,7 +17,7 @@ redirect_from:
 
 ## 🔥 News
 - **[2026.03]** <span style="color: #D9534F;">STAMP</span> is accepted to IJCNN 2026.
-- **[2026.03]** <span style="color: #D9534F;">PhaForce</span>  & <span style="color: #D9534F;">Push-Wiper</span> are submitted to IROS 2026.
+- **[2026.03]** <a href="https://arxiv.org/abs/2603.08342" target="_blank" rel="noopener noreferrer"><span style="color: #D9534F;">PhaForce</span></a>  & <span style="color: #D9534F;">Push-Wiper</span> are submitted to IROS 2026.
 - **[2026.03]** <span style="color: #D9534F;">RRRR</span> is submitted to ECCV 2026.
 - **[2025.09]** Started my Master's journey at the AI & Robot Lab, Tsinghua University.
 
