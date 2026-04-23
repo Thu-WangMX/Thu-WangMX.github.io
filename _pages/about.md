@@ -11,7 +11,7 @@ redirect_from:
 
 🔬 My research interests primarily focus on <span style="color: #D9534F;">Robot learning and MLLM</span>. I am dedicated to enabling robots with more versatile and delicate perception and manipulation capabilities in the complex physical world.
 
-🤖 Currently, I am a MLLM Algorithm Intern at the <a href="https://www.amap.com/" target="_blank" rel="noopener noreferrer">CV Lab of Amap, Alibaba Group.</a> Feel free to contact me!
+🤖 Currently, I am a MLLM Algorithm Intern at the <a href="https://mp.weixin.qq.com/s/OPs42aBRZj2krErlNORZ4A" target="_blank" rel="noopener noreferrer">CV Lab of Amap, Alibaba Group.</a> Feel free to contact me!
 
 ---
 
