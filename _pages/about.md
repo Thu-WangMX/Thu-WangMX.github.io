@@ -13,6 +13,8 @@ redirect_from:
 
 🤖 Currently, I am a MLLM Algorithm Intern at the <a href="https://mp.weixin.qq.com/s/OPs42aBRZj2krErlNORZ4A" target="_blank" rel="noopener noreferrer">CV Lab of Amap, Alibaba Group.</a> Feel free to contact me!
 
+Wechat: SpidyWWW666
+
 ---
 
 ## 🔥 News
