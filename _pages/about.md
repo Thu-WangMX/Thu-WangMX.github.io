@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-👋 Welcome to my personal homepage! I am **Mingxin Wang**, currently a Master's student in the AI & Robot Lab at <a href="https://www.tsinghua.edu.cn/" target="_blank" rel="noopener noreferrer">Tsinghua University</a>, advised by <a href="https://www.sigs.tsinghua.edu.cn/lhd/main.psp" target="_blank" rel="noopener noreferrer">Prof. Houde Liu</a>. Prior to this, I received my Bachelor's degree in Robotics Engineering from <a href="https://www.nuaa.edu.cn/" target="_blank" rel="noopener noreferrer">Nanjing University of Aeronautics and Astronautics (NUAA)</a>, where I ranked first in my college (1/520).
+👋 Welcome to my personal homepage! I am **Mingxin Wang**, currently a Master's student in the AI & Robot Lab at <a href="https://www.tsinghua.edu.cn/" target="_blank" rel="noopener noreferrer">Tsinghua University</a>, advised by <a href="https://www.sigs.tsinghua.edu.cn/lhd/main.psp" target="_blank" rel="noopener noreferrer">Prof. Houde Liu</a>. Prior to this, I received my Bachelor's degree in Robotics Engineering from <a href="https://www.nuaa.edu.cn/" target="_blank" rel="noopener noreferrer">Nanjing University of Aeronautics and Astronautics (NUAA)</a>.
 
-🔬 My research interests primarily focus on <span style="color: #D9534F;">Robot learning and MLLM</span>. I am dedicated to enabling robots with more versatile and delicate perception and manipulation capabilities in the complex physical world.
+  🔬 My research interests primarily focus on <span style="color: #D9534F;">Robot learning and World Model</span>. I am dedicated to enabling robots with more versatile and delicate perception and manipulation capabilities in the complex physical world.
 
 🤖 Currently, I am a MLLM Algorithm Intern at the <a href="https://mp.weixin.qq.com/s/OPs42aBRZj2krErlNORZ4A" target="_blank" rel="noopener noreferrer">CV Lab of Amap, Alibaba Group.</a> Feel free to contact me!
 
@@ -70,7 +70,7 @@ Wechat: SpidyWWW666
       <a href="https://air.tsinghua.edu.cn/" target="_blank" rel="noopener noreferrer"><strong>Tsinghua University - AIR</strong></a> | Embodied Algorithm Intern <br>
       <em>2026.04 - Present</em>
       <ul>
-        <li>Research focus: World Action Model and tactile perception</li>
+        <li>Research focus: World Action Model & Tactile perception</li>
       </ul>
     </td>
   </tr>
@@ -96,7 +96,7 @@ Wechat: SpidyWWW666
       <a href="https://www.zerith.com/" target="_blank" rel="noopener noreferrer"><strong>Zerith Robotics</strong></a> | Embodied Algorithm Intern <br>
       <em>2025.03 - 2026.03</em>
       <ul>
-        <li>Research focus: VLA, RL, contact-rich manipulation</li>
+        <li>Research focus: VLA for contact-rich manipulation & Real World RL</li>
       </ul>
     </td>
   </tr>
@@ -124,7 +124,7 @@ Wechat: SpidyWWW666
   <div style="flex: 1;">
     <div style="color: #D9534F; font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;">Push-Wiper: Toward General-Purpose Robotic Cleaning across Varied Stains and Surfaces with Segmented Pushing Trajectories</div>
     <div style="font-size: 1.05em;">
-      <b>Mingxin Wang* (Co-First Author)</b>, et al.<br>
+      Renhao Lu*, <b>Mingxin Wang* (Co-First Author)</b>, et al.<br>
       <i>Submitted to IROS 2026</i><br>
       <p style="margin-top: 8px; color: #555; line-height: 1.5;">Redefines viscous stain cleaning as an aggregation-post-processing task and enables zero-shot generalization for robotic cleaning on unseen stains and surfaces.</p>
     </div>
@@ -167,7 +167,7 @@ Wechat: SpidyWWW666
 </div>
 <div style="font-size:1.05em;">
 <b>Ranked Top 15</b><br>
-<p style="margin-top:8px; color:#555; line-height:1.5;">Developed an action-conditioned world model to predict future world dynamics. The challenge evaluates world model performance from three aspects: <b>Visual Quality</b>, <b>Action Following</b>, and <b>Scene Consistency</b>.</p>
+<p style="margin-top:8px; color:#555; line-height:1.5;">The challenge evaluates world models in terms of Visual Quality, Action Following, and Scene Consistency. We developed a WAN2.1-based action-conditioned world model for predicting future world dynamics.</p>
 </div>
 </div>
 </div>
@@ -178,7 +178,6 @@ Wechat: SpidyWWW666
 
 - **[2025.06]** Outstanding Undergraduate Graduate
 - **[2024.11]** National Scholarship (Top 0.2%)
-- **[2024.11]** Annual Special Commendation
 - **[2023.12]** First Prize of Aviation Industry Scholarship (Top 2 in NUAA)
 - **[2022.11]** National Scholarship (Top 0.2%)
 - **[2021-2025]** More than 10 national and provincial awards in robotics competitions
@@ -186,7 +185,7 @@ Wechat: SpidyWWW666
 ---
 
 ## 🛠 Skills
-- **Embodied AI & VLA Algorithms**: Pi0/Pi0.5, LORA SFT, Residual RL, Reactive Diffusion Policy, Imitation Learning.
+- **Embodied Algorithms**: Pi0/Pi0.5, SFT, RL, Diffusion Policy, Imitation Learning.
 - **Robotic Grasping & Control**: AnyGrasp, Impedance/Admittance/Hybrid force-position control, NURBS Trajectory Planning.
 - **Simulation & Real-world Deployment**: ROS/ROS2, Franka, UR5e, Flexiv, MuJoCo, Isaac Sim.
-- **Programming**: Python (PyTorch), C++.
+- **Programming**: Python (PyTorch).
