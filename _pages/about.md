@@ -62,6 +62,19 @@ Wechat: SpidyWWW666
 
 <table style="width:100%; border-collapse:collapse; border:none; font-size: 18px;">
 
+<tr style="border:none;">
+    <td style="width:80px; border:none; vertical-align:top;">
+      <img src="/images/thu.png" width="60" style="display:block; margin-top:5px;">
+    </td>
+    <td style="border:none; vertical-align:top;">
+      <a href="https://air.tsinghua.edu.cn/" target="_blank" rel="noopener noreferrer"><strong>Tsinghua University - AIR</strong></a> | Embodied Algorithm Intern <br>
+      <em>2026.04 - Present</em>
+      <ul>
+        <li>Research focus: World Action Model and tactile perception</li>
+      </ul>
+    </td>
+  </tr>
+
   <tr style="border:none;">
     <td style="width:80px; border:none; vertical-align:top;">
       <img src="/images/alibaba.png" width="60" style="display:block; margin-top:5px;">
@@ -141,6 +154,29 @@ Wechat: SpidyWWW666
     </div>
   </div>
 </div>
+---
+
+## 🚀 Project
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 32px; gap: 30px;">
+  <img src="/images/agibot.jpg" alt="AGIBOT WORLD CHALLENGE" style="width: 240px; height: 160px; object-fit: cover; flex-shrink: 0; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+  <div style="flex: 1;">
+    <div style="color: #D9534F; font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;">
+      <a href="https://agibot-world.com/challenge2026" target="_blank" rel="noopener noreferrer" style="color: #D9534F; text-decoration: none;">
+        AGIBOT WORLD CHALLENGE @ ICRA 2026 World Model Track
+      </a>
+    </div>
+
+    <div style="font-size: 1.05em;">
+      <b>Top 15</b><br>
+      <p style="margin-top: 8px; color: #555; line-height: 1.5;">
+        Developed an action-conditioned world model to predict future world dynamics. The challenge evaluates world model performance from three aspects: 
+        <b>Visual Quality</b>, <b>Action Following</b>, and <b>Scene Consistency</b>.
+      </p>
+    </div>
+  </div>
+</div>
+
 ---
 
 
