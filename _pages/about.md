@@ -159,23 +159,17 @@ Wechat: SpidyWWW666
 
 ## 🚀 Projects
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 32px; gap: 30px;">
-  <img src="/images/agibot.jpg" alt="AGIBOT WORLD CHALLENGE" style="width: 240px; height: 160px; object-fit: cover; flex-shrink: 0; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
-  <div style="flex: 1;">
-    <div style="color: #D9534F; font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;">
-      <a href="https://agibot-world.com/challenge2026" target="_blank" rel="noopener noreferrer" style="color: #D9534F; text-decoration: none;">
-        AGIBOT WORLD CHALLENGE @ ICRA 2026 World Model Track
-      </a>
-    </div>
-
-    <div style="font-size: 1.05em;">
-      <b>Ranked Top 15</b><br>
-      <p style="margin-top: 8px; color: #555; line-height: 1.5;">
-        Developed an action-conditioned world model to predict future world dynamics. The challenge evaluates world model performance from three aspects: 
-        <b>Visual Quality</b>, <b>Action Following</b>, and <b>Scene Consistency</b>.
-      </p>
-    </div>
-  </div>
+<div style="display:flex; align-items:flex-start; margin-bottom:32px; gap:30px;">
+<img src="/images/agibot.jpg" alt="AGIBOT WORLD CHALLENGE" style="width:240px; height:160px; object-fit:cover; flex-shrink:0; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.15);">
+<div style="flex:1;">
+<div style="color:#D9534F; font-weight:bold; font-size:1.25em; line-height:1.3; margin-bottom:6px;">
+<a href="https://agibot-world.com/challenge2026" target="_blank" rel="noopener noreferrer" style="color:#D9534F; text-decoration:none;">AGIBOT WORLD CHALLENGE @ ICRA 2026 World Model Track</a>
+</div>
+<div style="font-size:1.05em;">
+<b>Ranked Top 15</b><br>
+<p style="margin-top:8px; color:#555; line-height:1.5;">Developed an action-conditioned world model to predict future world dynamics. The challenge evaluates world model performance from three aspects: <b>Visual Quality</b>, <b>Action Following</b>, and <b>Scene Consistency</b>.</p>
+</div>
+</div>
 </div>
 
 ---
