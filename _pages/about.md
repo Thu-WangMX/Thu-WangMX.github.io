@@ -175,12 +175,13 @@ Wechat: SpidyWWW666
 ---
 
 ## 🏆 Awards
-- **[2025.06]** <span style="color: #D9534F;">Outstanding Undergraduate Graduate</span>
-- **[2024.11]** <span style="color: #D9534F;">National Scholarship</span> (Top 0.2%)
+
+- **[2025.06]** Outstanding Undergraduate Graduate
+- **[2024.11]** National Scholarship (Top 0.2%)
 - **[2024.11]** Annual Special Commendation
-- **[2023.12]** <span style="color: #D9534F;">First Prize of Aviation Industry Scholarship</span> (Top 2 in NUAA) 
-- **[2022.11]** <span style="color: #D9534F;">National Scholarship</span>  (Top 0.2%)
-- **[2021-2025]** More than 10 national and provincial awards in robotics competitions 
+- **[2023.12]** First Prize of Aviation Industry Scholarship (Top 2 in NUAA)
+- **[2022.11]** National Scholarship (Top 0.2%)
+- **[2021-2025]** More than 10 national and provincial awards in robotics competitions
 
 ---
 
