@@ -19,8 +19,6 @@ Wechat: SpidyWWW666
 
 ## 🔥 News
 - **[2026.03]** <span style="color: #D9534F;">STAMP</span> is accepted to IJCNN 2026.
-- **[2026.03]** <a href="https://arxiv.org/abs/2603.08342" target="_blank" rel="noopener noreferrer"><span style="color: #D9534F;">PhaForce</span></a>  & <span style="color: #D9534F;">Push-Wiper</span> are submitted to IROS 2026.
-- **[2026.03]** <span style="color: #D9534F;">RRRR</span> is submitted to ECCV 2026.
 - **[2025.09]** Started my Master's journey at the AI & Robot Lab, Tsinghua University.
 
 ---
@@ -113,7 +111,7 @@ Wechat: SpidyWWW666
     <div style="color: #D9534F; font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;">PhaForce: Phase-Scheduled Visual-Force Policy Learning with Slow Planning and Fast Correction for Contact-Rich Manipulation</div>
     <div style="font-size: 1.05em;">
       <b>Mingxin Wang (First Author)</b>, et al.<br>
-      <i>Submitted to IROS 2026</i><br>
+      <i>Under review</i><br>
       <p style="margin-top: 8px; color: #555; line-height: 1.5;">Proposes a phase-scheduled visual-force policy that integrates low-frequency diffusion planning and high-frequency residual force correction for contact-rich robotic manipulation tasks.</p>
     </div>
   </div>
@@ -125,7 +123,7 @@ Wechat: SpidyWWW666
     <div style="color: #D9534F; font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;">Push-Wiper: Toward General-Purpose Robotic Cleaning across Varied Stains and Surfaces with Segmented Pushing Trajectories</div>
     <div style="font-size: 1.05em;">
       Renhao Lu*, <b>Mingxin Wang* (Co-First Author)</b>, et al.<br>
-      <i>Submitted to IROS 2026</i><br>
+      <i>Under review</i><br>
       <p style="margin-top: 8px; color: #555; line-height: 1.5;">Redefines viscous stain cleaning as an aggregation-post-processing task and enables zero-shot generalization for robotic cleaning on unseen stains and surfaces.</p>
     </div>
   </div>
@@ -137,7 +135,7 @@ Wechat: SpidyWWW666
     <div style="color: #D9534F; font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;">RRRR: Rapid Real-World Residual RL for Multi-Task VLA Adaptation</div>
     <div style="font-size: 1.05em;">
       <b>Mingxin Wang</b>, et al.<br>
-      <i>Submitted to ECCV 2026</i><br>
+      <i>Under review</i><br>
       <p style="margin-top: 8px; color: #555; line-height: 1.5;">Presents a hybrid SFT+Residual RL framework to mitigate catastrophic forgetting and task interference in multi-task real-world VLA deployment.</p>
     </div>
   </div>
