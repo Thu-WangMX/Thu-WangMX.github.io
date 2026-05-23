@@ -18,6 +18,7 @@ Wechat: SpidyWWW666
 ---
 
 ## 🔥 News
+- **[2026.05]** <a href="https://arxiv.org/abs/2603.08342" target="_blank" rel="noopener noreferrer"><span style="color: #D9534F;">PhaForce</span></a> is accepted to the <a href="https://manipulation-robustness.github.io/icra2026/" target="_blank" rel="noopener noreferrer">ICRA 2026 Manipulation Robustness Workshop</a>.
 - **[2026.03]** <span style="color: #D9534F;">STAMP</span> is accepted to IJCNN 2026.
 - **[2025.09]** Started my Master's journey at the AI & Robot Lab, Tsinghua University.
 
@@ -60,12 +61,26 @@ Wechat: SpidyWWW666
 
 <table style="width:100%; border-collapse:collapse; border:none; font-size: 18px;">
 
+
+<tr style="border:none;">
+  <td style="width:80px; border:none; vertical-align:top;">
+    <img src="/images/tuojing.png" width="60" style="display:block; margin-top:5px;">
+  </td>
+  <td style="border:none; vertical-align:top;">
+    <a href="https://github.com/TuojingAI" target="_blank" rel="noopener noreferrer"><strong>TuojingAI</strong></a> | Remote Research Intern <br>
+    <em>2026.05 - Present</em>
+    <ul>
+      <li>Research focus: Visual-touch integration &amp; Simulation evaluation</li>
+    </ul>
+  </td>
+</tr>
+
 <tr style="border:none;">
     <td style="width:80px; border:none; vertical-align:top;">
       <img src="/images/thu.png" width="60" style="display:block; margin-top:5px;">
     </td>
     <td style="border:none; vertical-align:top;">
-      <a href="https://air.tsinghua.edu.cn/" target="_blank" rel="noopener noreferrer"><strong>Tsinghua University - AIR</strong></a> | Embodied Algorithm Intern <br>
+      <a href="https://air.tsinghua.edu.cn/" target="_blank" rel="noopener noreferrer"><strong>Tsinghua University - AIR</strong></a> | Remote Research Intern <br>
       <em>2026.04 - Present</em>
       <ul>
         <li>Research focus: World Action Model & Tactile perception</li>
@@ -164,7 +179,7 @@ Wechat: SpidyWWW666
 <a href="https://agibot-world.com/challenge2026" target="_blank" rel="noopener noreferrer" style="color:#D9534F; text-decoration:none;">AGIBOT WORLD CHALLENGE @ ICRA 2026 World Model Track</a>
 </div>
 <div style="font-size:1.05em;">
-<b>Ranked Top 15</b><br>
+<b>Ranked Top 10</b><br>
 <p style="margin-top:8px; color:#555; line-height:1.5;">The challenge evaluates world models in terms of Visual Quality, Action Following, and Scene Consistency. We developed a WAN2.1-based action-conditioned world model for predicting future world dynamics.</p>
 </div>
 </div>
