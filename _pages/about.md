@@ -18,7 +18,7 @@ Wechat: SpidyWWW666
 ---
 
 ## 🔥 News
-- **[2026.05]** <a href="https://arxiv.org/abs/2603.08342" target="_blank" rel="noopener noreferrer"><span style="color: #D9534F;">PhaForce</span></a> is accepted to the <a href="https://manipulation-robustness.github.io/icra2026/" target="_blank" rel="noopener noreferrer">ICRA 2026 Manipulation Robustness Workshop</a>.
+- **[2026.05]** <a href="https://arxiv.org/abs/2603.08342" target="_blank" rel="noopener noreferrer"><span style="color: #D9534F;">PhaForce</span></a> is accepted to <a href="https://manipulation-robustness.github.io/icra2026/" target="_blank" rel="noopener noreferrer">Manipulation Robustness @ ICRA 2026</a> and <a href="https://activis-workshop.github.io/" target="_blank" rel="noopener noreferrer">ActiVis @ CVPR 2026</a>.
 - **[2026.03]** <span style="color: #D9534F;">STAMP</span> is accepted to IJCNN 2026.
 - **[2025.09]** Started my Master's journey at the AI & Robot Lab, Tsinghua University.
 
@@ -35,7 +35,7 @@ Wechat: SpidyWWW666
       <strong>Tsinghua University</strong> | M.Sc. in Artificial Intelligence <br>
       <em>2025.09 - Present</em>
       <ul>
-        <li>Research focus: VLA, Multimodal Large Language Models (MLLM)</li>
+        <li>Research focus: VLA, World Model, Manipulation</li>
       </ul>
     </td>
   </tr>
