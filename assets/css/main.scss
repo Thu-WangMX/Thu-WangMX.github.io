@@ -41,3 +41,54 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* ==========================================================================
+   Custom font-size tuning
+   ========================================================================== */
+
+/* Overall text scale */
+html {
+  font-size: 15px;
+}
+
+/* Main page content */
+.page__content {
+  font-size: 0.92rem;
+  line-height: 1.55;
+}
+
+/* Paragraphs and list items */
+.page__content p,
+.page__content li,
+.page__content dl {
+  font-size: 0.92rem;
+  line-height: 1.55;
+}
+
+/* Section headings */
+.page__content h1 {
+  font-size: 1.45rem;
+}
+
+.page__content h2 {
+  font-size: 1.25rem;
+}
+
+.page__content h3 {
+  font-size: 1.08rem;
+}
+
+/* Publication/project titles */
+.archive__item-title {
+  font-size: 1.0rem;
+}
+
+/* Sidebar author information */
+.sidebar p,
+.sidebar li {
+  font-size: 0.82rem;
+}
+
+.sidebar .author__name {
+  font-size: 0.95rem;
+}
