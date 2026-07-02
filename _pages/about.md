@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-👋 Welcome to my personal homepage! I am **Mingxin Wang**, currently a Master's student in the AI & Robot Lab at <a href="https://www.tsinghua.edu.cn/" target="_blank" rel="noopener noreferrer">Tsinghua University</a>, advised by <a href="https://www.sigs.tsinghua.edu.cn/lhd/main.psp" target="_blank" rel="noopener noreferrer">Prof. Houde Liu</a>. Prior to this, I received my Bachelor's degree in Robotics Engineering from <a href="https://www.nuaa.edu.cn/" target="_blank" rel="noopener noreferrer">Nanjing University of Aeronautics and Astronautics (NUAA)</a>.
+👋 Welcome to my personal homepage! I am **Mingxin Wang**, currently a Master's student in the AI & Robot Lab at <a href="https://www.tsinghua.edu.cn/" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">Tsinghua University</a>, advised by <a href="https://www.sigs.tsinghua.edu.cn/lhd/main.psp" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">Prof. Houde Liu</a>. Prior to this, I received my Bachelor's degree in Robotics Engineering from <a href="https://www.nuaa.edu.cn/" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">Nanjing University of Aeronautics and Astronautics (NUAA)</a>.
 
-  🔬 My research interests primarily focus on <span style="color: #D9534F;">Robot learning and World Model</span>. I am dedicated to enabling robots with more versatile and delicate perception and manipulation capabilities in the complex physical world.
+  🔬 My research interests primarily focus on <span style="color: #0066cc; font-weight: 700;">Robot learning and World Model</span>. I am dedicated to enabling robots with more versatile and delicate perception and manipulation capabilities in the complex physical world.
 
-🤖 Currently, I am a MLLM Algorithm Intern at the <a href="https://mp.weixin.qq.com/s/OPs42aBRZj2krErlNORZ4A" target="_blank" rel="noopener noreferrer">CV Lab of Amap, Alibaba Group.</a> Feel free to contact me!
+🤖 Currently, I am a MLLM Algorithm Intern at the <a href="https://mp.weixin.qq.com/s/OPs42aBRZj2krErlNORZ4A" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">CV Lab of Amap, Alibaba Group.</a> Feel free to contact me!
 
 Wechat: SpidyWWW666
 
