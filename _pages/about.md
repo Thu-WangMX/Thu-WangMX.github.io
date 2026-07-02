@@ -18,6 +18,8 @@ Wechat: SpidyWWW666
 ---
 
 ## 🔥 News
+- **[2026.07]** <span style="color: #D9534F;">PhaForce</span> and <span style="color: #D9534F;">Push-Wiper</span> are accepted to IROS 2026.
+- **[2026.07]** <a href="https://arxiv.org/abs/2607.00678" target="_blank" rel="noopener noreferrer"><span style="color: #D9534F;">ABot-M0.5</span></a> is released, with <a href="https://github.com/amap-cvlab/ABot-Manipulation" target="_blank" rel="noopener noreferrer">code</a> available.
 - **[2026.05]** <a href="https://arxiv.org/abs/2603.08342" target="_blank" rel="noopener noreferrer"><span style="color: #D9534F;">PhaForce</span></a> is accepted to <a href="https://manipulation-robustness.github.io/icra2026/" target="_blank" rel="noopener noreferrer">Manipulation Robustness @ ICRA 2026</a> and <a href="https://activis-workshop.github.io/" target="_blank" rel="noopener noreferrer">ActiVis @ CVPR 2026</a>.
 - **[2026.03]** <span style="color: #D9534F;">STAMP</span> is accepted to IJCNN 2026.
 - **[2025.09]** Started my Master's journey at the AI & Robot Lab, Tsinghua University.
