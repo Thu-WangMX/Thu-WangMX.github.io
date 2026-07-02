@@ -125,10 +125,11 @@ Wechat: SpidyWWW666
   <div style="flex: 1;">
     <div style="font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;"><a href="https://arxiv.org/abs/2603.08342" target="_blank" rel="noopener noreferrer" style="color: #D9534F; text-decoration: none;">PhaForce: Phase-Scheduled Visual-Force Policy Learning with Slow Planning and Fast Correction for Contact-Rich Manipulation</a></div>
     <div style="font-size: 1.05em;">
-      <b>Mingxin Wang</b>, Zhirun Yue, Renhao Lu, Yizhe Li, Zihan Wang, Guoping Pan, Kangkang Dong, Jun Cheng, Yi Cheng, Houde Liu<br>
+      <b>Mingxin Wang</b>, Zhirun Yue, Renhao Lu, Yizhe Li, Zihan Wang, Guoping Pan, Kangkang Dong, Jun Cheng, Yi Cheng, Houde Liu<sup>*</sup><br>
+      <span style="color: #666;"><sup>*</sup> Corresponding author</span><br>
       <i>Accepted to IROS 2026</i><br>
       <a href="https://arxiv.org/abs/2603.08342" target="_blank" rel="noopener noreferrer">arXiv</a> /
-      <a href="https://github.com/Thu-WangMX/phaforce" target="_blank" rel="noopener noreferrer">Code</a><br>
+      <a href="https://thu-wangmx.github.io/phaforce/" target="_blank" rel="noopener noreferrer">Code</a><br>
       <p style="margin-top: 8px; color: #555; line-height: 1.5;">Proposes a phase-scheduled visual-force policy that integrates low-frequency diffusion planning and high-frequency residual force correction for contact-rich robotic manipulation tasks.</p>
     </div>
   </div>
@@ -139,8 +140,8 @@ Wechat: SpidyWWW666
   <div style="flex: 1;">
     <div style="color: #D9534F; font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;">Push-Wiper: Toward General-Purpose Robotic Cleaning across Varied Stains and Surfaces with Segmented Pushing Trajectories</div>
     <div style="font-size: 1.05em;">
-      Renhao Lu<sup>1,&dagger;</sup>, <b>Mingxin Wang<sup>2,&dagger;</sup></b>, Chenyang Cao<sup>3</sup>, Yang Yang<sup>2</sup>, Guoping Pan<sup>1</sup>, Kangkang Dong<sup>2</sup>, Yi Cheng<sup>1</sup>, Houde Liu<sup>1,2,*</sup><br>
-      <span style="color: #666;"><sup>&dagger;</sup> Equal contribution</span><br>
+      Renhao Lu<sup>&dagger;</sup>, <b>Mingxin Wang<sup>&dagger;</sup></b>, Chenyang Cao, Yang Yang, Guoping Pan, Kangkang Dong, Yi Cheng, Houde Liu<sup>*</sup><br>
+      <span style="color: #666;"><sup>&dagger;</sup> Equal contribution; <sup>*</sup> Corresponding author</span><br>
       <i>Accepted to IROS 2026</i><br>
       <p style="margin-top: 8px; color: #555; line-height: 1.5;">Redefines viscous stain cleaning as an aggregation-post-processing task and enables zero-shot generalization for robotic cleaning on unseen stains and surfaces.</p>
     </div>
@@ -152,15 +153,8 @@ Wechat: SpidyWWW666
   <div style="flex: 1;">
     <div style="color: #D9534F; font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;">RRRR: Rapid Real-World Residual RL for Multi-Task VLA Adaptation</div>
     <div style="font-size: 1.05em;">
-      <a href="https://openreview.net/profile?id=~Yizhe_Li8" target="_blank" rel="noopener noreferrer">Yizhe Li</a>,
-      <a href="https://openreview.net/profile?id=~Zihan_Wang75" target="_blank" rel="noopener noreferrer">Zihan Wang</a>,
-      <a href="https://openreview.net/profile?id=~Zhe_Han3" target="_blank" rel="noopener noreferrer">Zhe Han</a>,
-      <a href="https://openreview.net/profile?id=~Mingxin_Wang4" target="_blank" rel="noopener noreferrer"><b>Mingxin Wang</b></a>,
-      <a href="https://openreview.net/profile?id=~Guoping_Pan1" target="_blank" rel="noopener noreferrer">Guoping Pan</a>,
-      <a href="https://openreview.net/profile?id=~Yi_Cheng7" target="_blank" rel="noopener noreferrer">Yi Cheng</a>,
-      <a href="https://openreview.net/profile?id=~Yuheng_Min1" target="_blank" rel="noopener noreferrer">Yuheng Min</a>,
-      <a href="https://openreview.net/profile?id=~Xueqian_Wang1" target="_blank" rel="noopener noreferrer">Xueqian Wang</a>,
-      <a href="https://openreview.net/profile?id=~Houde_Liu1" target="_blank" rel="noopener noreferrer">Houde Liu</a><br>
+      Yizhe Li<sup>&dagger;</sup>, Zihan Wang<sup>&dagger;</sup>, Zhe Han<sup>&dagger;</sup>, <b>Mingxin Wang</b>, Guoping Pan, Yi Cheng, Yuheng Min, Xueqian Wang, Houde Liu<sup>*</sup><br>
+      <span style="color: #666;"><sup>&dagger;</sup> Equal contribution; <sup>*</sup> Corresponding author</span><br>
       <i>Under review</i><br>
       <p style="margin-top: 8px; color: #555; line-height: 1.5;">Presents a hybrid SFT+Residual RL framework to mitigate catastrophic forgetting and task interference in multi-task real-world VLA deployment.</p>
     </div>
@@ -172,7 +166,8 @@ Wechat: SpidyWWW666
   <div style="flex: 1;">
     <div style="font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;"><a href="/files/STAMP-IJCNN2026.pdf" target="_blank" rel="noopener noreferrer" style="color: #D9534F; text-decoration: none;">STAMP: Spatio-Temporal Augmented Memory Policy for Robotic Manipulation</a></div>
     <div style="font-size: 1.05em;">
-      Zhirun Yue, <b>Mingxin Wang</b>, Tianyi You, Jun Cheng, Houde Liu<br>
+      Zhirun Yue, <b>Mingxin Wang</b>, Tianyi You, Jun Cheng, Houde Liu<sup>*</sup><br>
+      <span style="color: #666;"><sup>*</sup> Corresponding author</span><br>
       <i>Accepted to IJCNN 2026</i><br>
       <a href="/files/STAMP-IJCNN2026.pdf" target="_blank" rel="noopener noreferrer">PDF</a><br>
       <p style="margin-top: 8px; color: #555; line-height: 1.5;">Introduces a spatio-temporal augmented memory policy with a hierarchical memory pyramid for robust robotic manipulation in complex scenarios.</p>
@@ -199,13 +194,10 @@ Wechat: SpidyWWW666
   <div style="flex: 1;">
     <div style="font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;"><a href="https://openreview.net/forum?id=ocBexRaEyT&amp;referrer=%5Bthe%20profile%20of%20Mingxin%20Wang%5D(%2Fprofile%3Fid%3D~Mingxin_Wang4)" target="_blank" rel="noopener noreferrer" style="color: #D9534F; text-decoration: none;">MASTE: A Multi-Agent Pipeline for Zero-Shot Aspect Sentiment Triplet Extraction</a></div>
     <div style="font-size: 1.05em;">
-      <a href="https://openreview.net/profile?id=~Ao_Hong1" target="_blank" rel="noopener noreferrer">Ao Hong</a>,
-      <a href="https://openreview.net/profile?id=~Lehang_Wang2" target="_blank" rel="noopener noreferrer">Lehang Wang</a>,
-      <a href="https://openreview.net/profile?id=~Zhirun_Yue1" target="_blank" rel="noopener noreferrer">Zhirun Yue</a>,
-      <a href="https://openreview.net/profile?id=~Mingxin_Wang4" target="_blank" rel="noopener noreferrer"><b>Mingxin Wang</b></a>,
-      <a href="https://openreview.net/profile?id=~Zihan_Wang75" target="_blank" rel="noopener noreferrer">Zihan Wang</a>,
-      <a href="https://openreview.net/profile?id=~Houde_Liu1" target="_blank" rel="noopener noreferrer">Houde Liu</a><br>
+      Ao Hong, Lehang Wang, Zhirun Yue, <b>Mingxin Wang</b>, Zihan Wang, Houde Liu<sup>*</sup><br>
+      <span style="color: #666;"><sup>*</sup> Corresponding author</span><br>
       <i>Under review</i><br>
+      <p style="margin-top: 8px; color: #555; line-height: 1.5;">Proposes a training-free multi-agent pipeline that decomposes aspect sentiment triplet extraction into specialized extraction, reasoning, and consistency-checking stages for zero-shot deployment.</p>
     </div>
   </div>
 </div>
@@ -215,12 +207,10 @@ Wechat: SpidyWWW666
   <div style="flex: 1;">
     <div style="font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;"><a href="https://openreview.net/forum?id=yU6eAw6kGU&amp;referrer=%5Bthe%20profile%20of%20Mingxin%20Wang%5D(%2Fprofile%3Fid%3D~Mingxin_Wang4)" target="_blank" rel="noopener noreferrer" style="color: #D9534F; text-decoration: none;">P<sup>2</sup>Grasp: Pre-to-Post Grasping in Clutter via Geometric-Semantic Agentic Reasoning</a></div>
     <div style="font-size: 1.05em;">
-      <a href="https://openreview.net/profile?id=~Zhirun_Yue1" target="_blank" rel="noopener noreferrer">Zhirun Yue</a>,
-      <a href="https://openreview.net/profile?id=~Mingxin_Wang4" target="_blank" rel="noopener noreferrer"><b>Mingxin Wang</b></a>,
-      <a href="https://openreview.net/profile?id=~Ao_Hong1" target="_blank" rel="noopener noreferrer">Ao Hong</a>,
-      <a href="https://openreview.net/profile?id=~Jun_Cheng6" target="_blank" rel="noopener noreferrer">Jun Cheng</a>,
-      <a href="https://openreview.net/profile?id=~Houde_Liu1" target="_blank" rel="noopener noreferrer">Houde Liu</a><br>
+      Zhirun Yue, <b>Mingxin Wang</b>, Ao Hong, Jun Cheng, Houde Liu<sup>*</sup><br>
+      <span style="color: #666;"><sup>*</sup> Corresponding author</span><br>
       <i>Under review</i><br>
+      <p style="margin-top: 8px; color: #555; line-height: 1.5;">Formulates cluttered-scene grasping as pre-to-post decision reasoning, combining geometric-semantic evidence, VLM-based agentic reasoning, and contact-grasp refinement.</p>
     </div>
   </div>
 </div>
