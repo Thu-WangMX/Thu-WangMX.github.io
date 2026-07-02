@@ -18,10 +18,10 @@ Wechat: SpidyWWW666
 ---
 
 ## 🔥 News
-- **[2026.07]** <span style="color: #D9534F;">PhaForce</span> and <span style="color: #D9534F;">Push-Wiper</span> are accepted to IROS 2026.
-- **[2026.07]** <a href="https://arxiv.org/abs/2607.00678" target="_blank" rel="noopener noreferrer"><span style="color: #D9534F;">ABot-M0.5</span></a> is released, with <a href="https://github.com/amap-cvlab/ABot-Manipulation" target="_blank" rel="noopener noreferrer">code</a> available.
-- **[2026.05]** <a href="https://arxiv.org/abs/2603.08342" target="_blank" rel="noopener noreferrer"><span style="color: #D9534F;">PhaForce</span></a> is accepted to <a href="https://manipulation-robustness.github.io/icra2026/" target="_blank" rel="noopener noreferrer">Manipulation Robustness @ ICRA 2026</a> and <a href="https://activis-workshop.github.io/" target="_blank" rel="noopener noreferrer">ActiVis @ CVPR 2026</a>.
-- **[2026.03]** <span style="color: #D9534F;">STAMP</span> is accepted to IJCNN 2026.
+- **[2026.07]** <a href="https://thu-wangmx.github.io/phaforce/" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">PhaForce</a> and <a href="#push-wiper" style="color: #0066cc; text-decoration: none; font-weight: 700;">Push-Wiper</a> are accepted to IROS 2026.
+- **[2026.07]** <a href="https://arxiv.org/abs/2607.00678" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">ABot-M0.5</a> is released, with <a href="https://github.com/amap-cvlab/ABot-Manipulation" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">code</a> available.
+- **[2026.05]** <a href="https://thu-wangmx.github.io/phaforce/" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">PhaForce</a> is accepted to <a href="https://manipulation-robustness.github.io/icra2026/" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">Manipulation Robustness @ ICRA 2026</a> and <a href="https://activis-workshop.github.io/" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">ActiVis @ CVPR 2026</a>.
+- **[2026.03]** <a href="/files/STAMP-IJCNN2026.pdf" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">STAMP</a> is accepted to IJCNN 2026.
 - **[2025.09]** Started my Master's journey at the AI & Robot Lab, Tsinghua University.
 
 ---
@@ -137,7 +137,7 @@ Wechat: SpidyWWW666
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 32px; gap: 30px;">
+<div id="push-wiper" style="display: flex; align-items: flex-start; margin-bottom: 32px; gap: 30px;">
   <img src="/images/push-wiper.png" alt="Push-Wiper" style="width: 240px; height: 160px; object-fit: contain; background: #fff; flex-shrink: 0; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
   <div style="flex: 1;">
     <div style="color: #D9534F; font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;">Push-Wiper: Toward General-Purpose Robotic Cleaning across Varied Stains and Surfaces with Segmented Pushing Trajectories</div>
