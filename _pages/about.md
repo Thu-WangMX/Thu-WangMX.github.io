@@ -123,6 +123,20 @@ Wechat: SpidyWWW666
 ## 📝 Publications
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 32px; gap: 30px;">
+  <img src="/images/abot-m05.png" alt="ABot-M0.5" style="width: 240px; height: 160px; object-fit: contain; background: #fff; flex-shrink: 0; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+  <div style="flex: 1;">
+    <div style="font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;"><a href="https://arxiv.org/abs/2607.00678" target="_blank" rel="noopener noreferrer" style="color: #D9534F; text-decoration: none;">ABot-M0.5: Unified Mobility-and-Manipulation World Action Model</a></div>
+    <div style="font-size: 1.05em;">
+      AMAP CV Lab<br>
+      <i>arXiv preprint</i><br>
+      <a href="https://arxiv.org/abs/2607.00678" target="_blank" rel="noopener noreferrer">arXiv</a> /
+      <a href="https://github.com/amap-cvlab/ABot-Manipulation" target="_blank" rel="noopener noreferrer">Code</a><br>
+      <p style="margin-top: 8px; color: #555; line-height: 1.5;">Presents a unified world action model for mobility-and-manipulation tasks with temporal, action-space, and train-test alignment.</p>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 32px; gap: 30px;">
   <img src="/images/phaforce.png" alt="PhaForce" style="width: 240px; height: 160px; object-fit: contain; background: #fff; flex-shrink: 0; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
   <div style="flex: 1;">
     <div style="font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;"><a href="https://arxiv.org/abs/2603.08342" target="_blank" rel="noopener noreferrer" style="color: #D9534F; text-decoration: none;">PhaForce: Phase-Scheduled Visual-Force Policy Learning with Slow Planning and Fast Correction for Contact-Rich Manipulation</a></div>
@@ -173,20 +187,6 @@ Wechat: SpidyWWW666
       <i>Accepted to IJCNN 2026</i><br>
       <a href="/files/STAMP-IJCNN2026.pdf" target="_blank" rel="noopener noreferrer">PDF</a><br>
       <p style="margin-top: 8px; color: #555; line-height: 1.5;">Introduces a spatio-temporal augmented memory policy with a hierarchical memory pyramid for robust robotic manipulation in complex scenarios.</p>
-    </div>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 32px; gap: 30px;">
-  <img src="/images/abot-m05.png" alt="ABot-M0.5" style="width: 240px; height: 160px; object-fit: contain; background: #fff; flex-shrink: 0; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
-  <div style="flex: 1;">
-    <div style="font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;"><a href="https://arxiv.org/abs/2607.00678" target="_blank" rel="noopener noreferrer" style="color: #D9534F; text-decoration: none;">ABot-M0.5: Unified Mobility-and-Manipulation World Action Model</a></div>
-    <div style="font-size: 1.05em;">
-      AMAP CV Lab<br>
-      <i>arXiv preprint</i><br>
-      <a href="https://arxiv.org/abs/2607.00678" target="_blank" rel="noopener noreferrer">arXiv</a> /
-      <a href="https://github.com/amap-cvlab/ABot-Manipulation" target="_blank" rel="noopener noreferrer">Code</a><br>
-      <p style="margin-top: 8px; color: #555; line-height: 1.5;">Presents a unified world action model for mobility-and-manipulation tasks with temporal, action-space, and train-test alignment.</p>
     </div>
   </div>
 </div>
