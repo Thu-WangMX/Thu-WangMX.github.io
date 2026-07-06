@@ -251,3 +251,13 @@ Wechat: SpidyWWW666
 - **Robotic Grasping & Control**: AnyGrasp, Impedance/Admittance/Hybrid force-position control, NURBS Trajectory Planning.
 - **Simulation & Real-world Deployment**: ROS/ROS2, Franka, UR5e, Flexiv, MuJoCo, Isaac Sim.
 - **Programming**: Python (PyTorch).
+
+---
+
+## Visitor Map
+
+<div style="margin-top: 12px;">
+  <a href="https://flagcounter.me/details/hBu" target="_blank" rel="noopener noreferrer nofollow" aria-label="View visitor statistics by country">
+    <img src="https://flagcounter.me/hBu/" alt="Visitor map and country counter" style="max-width: 100%; border: 1px solid #e5e7eb; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.08);">
+  </a>
+</div>
