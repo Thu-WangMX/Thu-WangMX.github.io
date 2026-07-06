@@ -222,6 +222,19 @@ Wechat: SpidyWWW666
 ## 🚀 Projects
 
 <div style="display:flex; align-items:flex-start; margin-bottom:32px; gap:30px;">
+<img src="/images/wam-report.png" alt="Mainstream WAM evaluation report" style="width:240px; height:160px; object-fit:contain; background:#fff; flex-shrink:0; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.15);">
+<div style="flex:1;">
+<div style="color:#D9534F; font-weight:bold; font-size:1.25em; line-height:1.3; margin-bottom:6px;">
+<a href="/files/mainstream-wam-report-v0.2.pdf" target="_blank" rel="noopener noreferrer" style="color:#D9534F; text-decoration:none;">Mainstream WAM Evaluation Report</a>
+</div>
+<div style="font-size:1.05em;">
+<a href="/files/mainstream-wam-report-v0.2.pdf" target="_blank" rel="noopener noreferrer">PDF</a><br>
+<p style="margin-top:8px; color:#555; line-height:1.5;">Benchmarks mainstream World Action Models under unified LIBERO and LIBERO-Plus protocols, analyzing standard-task performance, OOD generalization, inference efficiency, 3D capability, and failure taxonomies.</p>
+</div>
+</div>
+</div>
+
+<div style="display:flex; align-items:flex-start; margin-bottom:32px; gap:30px;">
 <img src="/images/agibot.jpg" alt="AGIBOT WORLD CHALLENGE" style="width:240px; height:160px; object-fit:cover; flex-shrink:0; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.15);">
 <div style="flex:1;">
 <div style="color:#D9534F; font-weight:bold; font-size:1.25em; line-height:1.3; margin-bottom:6px;">
