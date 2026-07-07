@@ -123,6 +123,22 @@ Wechat: SpidyWWW666
 ## 📝 Publications
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 32px; gap: 30px;">
+  <img src="/images/softvtbench.png" alt="SoftVTBench" style="width: 240px; height: 160px; object-fit: contain; background: #fff; flex-shrink: 0; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+  <div style="flex: 1;">
+    <div style="font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;"><a href="https://arxiv.org/abs/2607.04234" target="_blank" rel="noopener noreferrer" style="color: #D9534F; text-decoration: none;">SoftVTBench: A Safety-Aware Visuo-Tactile Benchmark for Physically Constrained Robotic Manipulation of Deformable Objects</a></div>
+    <div style="font-size: 1.05em;">
+      Bowen Jing<sup>&dagger;</sup>, <b>Mingxin Wang<sup>&dagger;</sup></b>, Ruiyang Hao, Chenchen Ge, Hanwen Shen, Junjie He, Yang Cui, Yiming Hou, Weitao Zhou<sup>*</sup>, Jiawei Wang, Minglei Li, Dandan Zhang, Ding Zhao, Houde Liu<sup>*</sup>, Xiaofan Li, Si Liu, Ping Luo, Haibao Yu<sup>*</sup><br>
+      <span style="color: #666;"><sup>&dagger;</sup> Equal contribution; <sup>*</sup> Corresponding author</span><br>
+      <i>arXiv preprint</i><br>
+      <a href="https://arxiv.org/abs/2607.04234" target="_blank" rel="noopener noreferrer">arXiv</a> /
+      <a href="https://github.com/TuojingAI/SoftVTBench" target="_blank" rel="noopener noreferrer">Code</a> /
+      <a href="https://softvtbench.github.io/" target="_blank" rel="noopener noreferrer">Website</a><br>
+      <p style="margin-top: 8px; color: #555; line-height: 1.5;">Introduces a safety-aware visuo-tactile benchmark for deformable object manipulation, evaluating both task success and physically safe interaction under contact-rich constraints.</p>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 32px; gap: 30px;">
   <img src="/images/abot-m05.png" alt="ABot-M0.5" style="width: 240px; height: 160px; object-fit: contain; background: #fff; flex-shrink: 0; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
   <div style="flex: 1;">
     <div style="font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;"><a href="https://arxiv.org/abs/2607.00678" target="_blank" rel="noopener noreferrer" style="color: #D9534F; text-decoration: none;">ABot-M0.5: Unified Mobility-and-Manipulation World Action Model</a></div>
