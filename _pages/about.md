@@ -18,6 +18,7 @@ Wechat: SpidyWWW666
 ---
 
 ## 🔥 News
+- **[2026.07]** We release <a href="https://softvtbench.github.io/" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">SoftVTBench</a>, with <a href="https://arxiv.org/abs/2607.04234" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">paper</a> and <a href="https://github.com/TuojingAI/SoftVTBench" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">code</a> available.
 - **[2026.07]** <a href="https://arxiv.org/abs/2607.00678" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">ABot-M0.5</a> is released, with <a href="https://github.com/amap-cvlab/ABot-Manipulation" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">code</a> available.
 - **[2026.06]** <a href="https://thu-wangmx.github.io/phaforce/" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">PhaForce</a> and <a href="#push-wiper" style="color: #0066cc; text-decoration: none; font-weight: 700;">Push-Wiper</a> are accepted to IROS 2026.
 - **[2026.05]** <a href="https://thu-wangmx.github.io/phaforce/" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">PhaForce</a> is accepted to <a href="https://manipulation-robustness.github.io/icra2026/" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">Manipulation Robustness @ ICRA 2026</a> and <a href="https://activis-workshop.github.io/" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">ActiVis @ CVPR 2026</a>.
@@ -127,7 +128,7 @@ Wechat: SpidyWWW666
   <div style="flex: 1;">
     <div style="font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;"><a href="https://arxiv.org/abs/2607.04234" target="_blank" rel="noopener noreferrer" style="color: #D9534F; text-decoration: none;">SoftVTBench: A Safety-Aware Visuo-Tactile Benchmark for Physically Constrained Robotic Manipulation of Deformable Objects</a></div>
     <div style="font-size: 1.05em;">
-      Bowen Jing<sup>&dagger;</sup>, <b>Mingxin Wang<sup>&dagger;</sup></b>, Ruiyang Hao, Chenchen Ge, Hanwen Shen, Junjie He, Yang Cui, Yiming Hou, Weitao Zhou<sup>*</sup>, Jiawei Wang, Minglei Li, Dandan Zhang, Ding Zhao, Houde Liu<sup>*</sup>, Xiaofan Li, Si Liu, Ping Luo, Haibao Yu<sup>*</sup><br>
+      Bowen Jing<sup>&dagger;</sup>, <b>Mingxin Wang<sup>&dagger;</sup></b>, Ruiyang Hao, Chenchen Ge, Hanwen Shen, Junjie He, Yang Cui, Yiming Hou, Weitao Zhou<sup>*</sup>, Jiawei Wang, Minglei Li, Dandan Zhang, Ding Zhao, Houde Liu, Xiaofan Li, Si Liu, Ping Luo, Haibao Yu<sup>*</sup><br>
       <span style="color: #666;"><sup>&dagger;</sup> Equal contribution; <sup>*</sup> Corresponding author</span><br>
       <i>arXiv preprint</i><br>
       <a href="https://arxiv.org/abs/2607.04234" target="_blank" rel="noopener noreferrer">arXiv</a> /
