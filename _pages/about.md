@@ -124,7 +124,50 @@ Wechat: SpidyWWW666
 
 ## 📝 Publications
 
-<div id="st-wam" style="display: flex; align-items: flex-start; margin-bottom: 32px; gap: 30px;">
+<style>
+  .publication-filter {
+    display: inline-flex;
+    margin: 4px 0 26px;
+    padding: 3px;
+    gap: 3px;
+    border: 1px solid #d8e2ec;
+    border-radius: 7px;
+    background: #f7f9fb;
+  }
+  .publication-filter button {
+    border: 0;
+    border-radius: 5px;
+    padding: 7px 13px;
+    background: transparent;
+    color: #59636e;
+    font: inherit;
+    font-weight: 600;
+    line-height: 1.2;
+    cursor: pointer;
+  }
+  .publication-filter button:hover { color: #0066cc; }
+  .publication-filter button[aria-pressed="true"] {
+    background: #fff;
+    color: #0066cc;
+    box-shadow: 0 1px 4px rgba(31, 50, 69, 0.14);
+  }
+  #publication-list:not(.show-all) .publication-item:not(.is-representative) {
+    display: none !important;
+  }
+  @media (max-width: 480px) {
+    .publication-filter { display: flex; width: 100%; }
+    .publication-filter button { flex: 1; padding-right: 8px; padding-left: 8px; }
+  }
+</style>
+
+<div class="publication-filter" role="group" aria-label="Filter publications">
+  <button type="button" data-publication-filter="representative" aria-pressed="true">Representative</button>
+  <button type="button" data-publication-filter="all" aria-pressed="false">All Publications</button>
+</div>
+
+<div id="publication-list">
+
+<div id="st-wam" class="publication-item is-representative" style="display: flex; align-items: flex-start; margin-bottom: 32px; gap: 30px;">
   <img src="/images/st-wam.png" alt="ST-WAM" style="width: 240px; height: 160px; object-fit: contain; background: #fff; flex-shrink: 0; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
   <div style="flex: 1;">
     <div style="font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;"><a href="https://arxiv.org/abs/2607.28993" target="_blank" rel="noopener noreferrer" style="color: #D9534F; text-decoration: none;">ST-WAM: Semantic-Temporal World Action Model for Robust Manipulation under Visual Distribution Shifts</a></div>
@@ -140,7 +183,7 @@ Wechat: SpidyWWW666
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 32px; gap: 30px;">
+<div class="publication-item is-representative" style="display: flex; align-items: flex-start; margin-bottom: 32px; gap: 30px;">
   <img src="/images/softvtbench.png" alt="SoftVTBench" style="width: 240px; height: 160px; object-fit: contain; background: #fff; flex-shrink: 0; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
   <div style="flex: 1;">
     <div style="font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;"><a href="https://arxiv.org/abs/2607.04234" target="_blank" rel="noopener noreferrer" style="color: #D9534F; text-decoration: none;">SoftVTBench: A Safety-Aware Visuo-Tactile Benchmark for Physically Constrained Robotic Manipulation of Deformable Objects</a></div>
@@ -156,7 +199,7 @@ Wechat: SpidyWWW666
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 32px; gap: 30px;">
+<div class="publication-item is-representative" style="display: flex; align-items: flex-start; margin-bottom: 32px; gap: 30px;">
   <img src="/images/abot-m05.png" alt="ABot-M0.5" style="width: 240px; height: 160px; object-fit: contain; background: #fff; flex-shrink: 0; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
   <div style="flex: 1;">
     <div style="font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;"><a href="https://arxiv.org/abs/2607.00678" target="_blank" rel="noopener noreferrer" style="color: #D9534F; text-decoration: none;">ABot-M0.5: Unified Mobility-and-Manipulation World Action Model</a></div>
@@ -170,7 +213,7 @@ Wechat: SpidyWWW666
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 32px; gap: 30px;">
+<div class="publication-item is-representative" style="display: flex; align-items: flex-start; margin-bottom: 32px; gap: 30px;">
   <img src="/images/phaforce.png" alt="PhaForce" style="width: 240px; height: 160px; object-fit: contain; background: #fff; flex-shrink: 0; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
   <div style="flex: 1;">
     <div style="font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;"><a href="https://arxiv.org/abs/2603.08342" target="_blank" rel="noopener noreferrer" style="color: #D9534F; text-decoration: none;">PhaForce: Phase-Scheduled Visual-Force Policy Learning with Slow Planning and Fast Correction for Contact-Rich Manipulation</a></div>
@@ -185,7 +228,7 @@ Wechat: SpidyWWW666
   </div>
 </div>
 
-<div id="push-wiper" style="display: flex; align-items: flex-start; margin-bottom: 32px; gap: 30px;">
+<div id="push-wiper" class="publication-item is-representative" style="display: flex; align-items: flex-start; margin-bottom: 32px; gap: 30px;">
   <img src="/images/push-wiper.png" alt="Push-Wiper" style="width: 240px; height: 160px; object-fit: contain; background: #fff; flex-shrink: 0; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
   <div style="flex: 1;">
     <div style="color: #D9534F; font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;">Push-Wiper: Toward General-Purpose Robotic Cleaning across Varied Stains and Surfaces with Segmented Pushing Trajectories</div>
@@ -198,7 +241,7 @@ Wechat: SpidyWWW666
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 32px; gap: 30px;">
+<div class="publication-item" style="display: flex; align-items: flex-start; margin-bottom: 32px; gap: 30px;">
   <img src="/images/rrrr.png" alt="RRRR" style="width: 240px; height: 160px; object-fit: contain; background: #fff; flex-shrink: 0; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
   <div style="flex: 1;">
     <div style="color: #D9534F; font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;">RRRR: Rapid Real-World Residual RL for Multi-Task VLA Adaptation</div>
@@ -211,7 +254,7 @@ Wechat: SpidyWWW666
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 32px; gap: 30px;">
+<div class="publication-item" style="display: flex; align-items: flex-start; margin-bottom: 32px; gap: 30px;">
   <img src="/images/stamp.png" alt="STAMP" style="width: 240px; height: 160px; object-fit: contain; background: #fff; flex-shrink: 0; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
   <div style="flex: 1;">
     <div style="font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;"><a href="/files/STAMP-IJCNN2026.pdf" target="_blank" rel="noopener noreferrer" style="color: #D9534F; text-decoration: none;">STAMP: Spatio-Temporal Augmented Memory Policy for Robotic Manipulation</a></div>
@@ -225,7 +268,7 @@ Wechat: SpidyWWW666
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 32px; gap: 30px;">
+<div class="publication-item" style="display: flex; align-items: flex-start; margin-bottom: 32px; gap: 30px;">
   <img src="/images/maste.png" alt="MASTE" style="width: 240px; height: 160px; object-fit: contain; background: #fff; flex-shrink: 0; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
   <div style="flex: 1;">
     <div style="font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;"><a href="https://openreview.net/forum?id=ocBexRaEyT&amp;referrer=%5Bthe%20profile%20of%20Mingxin%20Wang%5D(%2Fprofile%3Fid%3D~Mingxin_Wang4)" target="_blank" rel="noopener noreferrer" style="color: #D9534F; text-decoration: none;">MASTE: A Multi-Agent Pipeline for Zero-Shot Aspect Sentiment Triplet Extraction</a></div>
@@ -238,7 +281,7 @@ Wechat: SpidyWWW666
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 32px; gap: 30px;">
+<div class="publication-item" style="display: flex; align-items: flex-start; margin-bottom: 32px; gap: 30px;">
   <img src="/images/p2grasp.png" alt="P2Grasp" style="width: 240px; height: 160px; object-fit: contain; background: #fff; flex-shrink: 0; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
   <div style="flex: 1;">
     <div style="font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;"><a href="https://openreview.net/forum?id=yU6eAw6kGU&amp;referrer=%5Bthe%20profile%20of%20Mingxin%20Wang%5D(%2Fprofile%3Fid%3D~Mingxin_Wang4)" target="_blank" rel="noopener noreferrer" style="color: #D9534F; text-decoration: none;">P<sup>2</sup>Grasp: Pre-to-Post Grasping in Clutter via Geometric-Semantic Agentic Reasoning</a></div>
@@ -250,6 +293,25 @@ Wechat: SpidyWWW666
     </div>
   </div>
 </div>
+
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var list = document.getElementById('publication-list');
+    var buttons = document.querySelectorAll('[data-publication-filter]');
+
+    buttons.forEach(function (button) {
+      button.addEventListener('click', function () {
+        var showAll = button.getAttribute('data-publication-filter') === 'all';
+        list.classList.toggle('show-all', showAll);
+        buttons.forEach(function (item) {
+          item.setAttribute('aria-pressed', item === button ? 'true' : 'false');
+        });
+      });
+    });
+  });
+</script>
 ---
 
 
