@@ -18,6 +18,7 @@ Wechat: SpidyWWW666
 ---
 
 ## 🔥 News
+- **[2026.07]** We release <a href="https://thu-wangmx.github.io/st-wam/" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">ST-WAM</a>, with <a href="https://arxiv.org/abs/2607.28993" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">paper</a> and <a href="https://modelscope.cn/models/THU4Spiderman/Semantic_Temporal_World_Action_Model" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">model weights</a> available.
 - **[2026.07]** We release <a href="https://softvtbench.github.io/" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">SoftVTBench</a>, with <a href="https://arxiv.org/abs/2607.04234" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">paper</a> and <a href="https://github.com/TuojingAI/SoftVTBench" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">code</a> available.
 - **[2026.07]** <a href="https://arxiv.org/abs/2607.00678" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">ABot-M0.5</a> is released, with <a href="https://github.com/amap-cvlab/ABot-Manipulation" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">code</a> available.
 - **[2026.06]** <a href="https://thu-wangmx.github.io/phaforce/" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">PhaForce</a> and <a href="#push-wiper" style="color: #0066cc; text-decoration: none; font-weight: 700;">Push-Wiper</a> are accepted to IROS 2026.
@@ -122,6 +123,22 @@ Wechat: SpidyWWW666
 ---
 
 ## 📝 Publications
+
+<div id="st-wam" style="display: flex; align-items: flex-start; margin-bottom: 32px; gap: 30px;">
+  <img src="/images/st-wam.png" alt="ST-WAM" style="width: 240px; height: 160px; object-fit: contain; background: #fff; flex-shrink: 0; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+  <div style="flex: 1;">
+    <div style="font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;"><a href="https://arxiv.org/abs/2607.28993" target="_blank" rel="noopener noreferrer" style="color: #D9534F; text-decoration: none;">ST-WAM: Semantic-Temporal World Action Model for Robust Manipulation under Visual Distribution Shifts</a></div>
+    <div style="font-size: 1.05em;">
+      <b>Mingxin Wang</b>, Bin Hu, Bin Qian, Kaitao Jiang, Haoning Wu, Feng Yan, Bowen Jing, Ruiyang Hao, Enyi Wang, Kangning Niu, Yandan Yang, Mu Xu, Yan Wang, Houde Liu<sup>*</sup>, Tianlun Li<sup>*</sup><br>
+      <span style="color: #666;"><sup>*</sup> Corresponding author</span><br>
+      <i>arXiv preprint</i><br>
+      <a href="https://arxiv.org/abs/2607.28993" target="_blank" rel="noopener noreferrer">arXiv</a> /
+      <a href="https://thu-wangmx.github.io/st-wam/" target="_blank" rel="noopener noreferrer">Website</a> /
+      <a href="https://modelscope.cn/models/THU4Spiderman/Semantic_Temporal_World_Action_Model" target="_blank" rel="noopener noreferrer">Model Weights</a><br>
+      <p style="margin-top: 8px; color: #555; line-height: 1.5;">Proposes a semantic-temporal world action model that combines DINOv3 future supervision with current-anchored history retrieval to improve robust manipulation under visual distribution shifts.</p>
+    </div>
+  </div>
+</div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 32px; gap: 30px;">
   <img src="/images/softvtbench.png" alt="SoftVTBench" style="width: 240px; height: 160px; object-fit: contain; background: #fff; flex-shrink: 0; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
