@@ -18,7 +18,7 @@ Wechat: SpidyWWW666
 ---
 
 ## 🔥 News
-- **[2026.07]** We release <a href="https://thu-wangmx.github.io/st-wam/" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">ST-WAM</a>, with <a href="https://arxiv.org/abs/2607.28993" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">paper</a> and <a href="https://modelscope.cn/models/THU4Spiderman/Semantic_Temporal_World_Action_Model" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">model weights</a> available.
+- **[2026.07]** We release <a href="https://thu-wangmx.github.io/st-wam/" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">ST-WAM</a>, with <a href="https://arxiv.org/abs/2607.28993" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">paper</a> and <a href="https://github.com/Thu-WangMX/ST-WAM-Semantic-Temporal-World-Action-Model" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">code</a> available.
 - **[2026.07]** We release <a href="https://softvtbench.github.io/" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">SoftVTBench</a>, with <a href="https://arxiv.org/abs/2607.04234" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">paper</a> and <a href="https://github.com/TuojingAI/SoftVTBench" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">code</a> available.
 - **[2026.07]** <a href="https://arxiv.org/abs/2607.00678" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">ABot-M0.5</a> is released, with <a href="https://github.com/amap-cvlab/ABot-Manipulation" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">code</a> available.
 - **[2026.06]** <a href="https://thu-wangmx.github.io/phaforce/" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">PhaForce</a> and <a href="#push-wiper" style="color: #0066cc; text-decoration: none; font-weight: 700;">Push-Wiper</a> are accepted to IROS 2026.
@@ -177,6 +177,7 @@ Wechat: SpidyWWW666
       <i>arXiv preprint</i><br>
       <a href="https://arxiv.org/abs/2607.28993" target="_blank" rel="noopener noreferrer">arXiv</a> /
       <a href="https://thu-wangmx.github.io/st-wam/" target="_blank" rel="noopener noreferrer">Website</a> /
+      <a href="https://github.com/Thu-WangMX/ST-WAM-Semantic-Temporal-World-Action-Model" target="_blank" rel="noopener noreferrer">Code</a> /
       <a href="https://modelscope.cn/models/THU4Spiderman/Semantic_Temporal_World_Action_Model" target="_blank" rel="noopener noreferrer">Model Weights</a><br>
       <p style="margin-top: 8px; color: #555; line-height: 1.5;">Proposes a semantic-temporal world action model that combines DINOv3 future supervision with current-anchored history retrieval to improve robust manipulation under visual distribution shifts.</p>
     </div>
@@ -231,11 +232,13 @@ Wechat: SpidyWWW666
 <div id="push-wiper" class="publication-item is-representative" style="display: flex; align-items: flex-start; margin-bottom: 32px; gap: 30px;">
   <img src="/images/push-wiper.png" alt="Push-Wiper" style="width: 240px; height: 160px; object-fit: contain; background: #fff; flex-shrink: 0; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
   <div style="flex: 1;">
-    <div style="color: #D9534F; font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;">Push-Wiper: Toward General-Purpose Robotic Cleaning across Varied Stains and Surfaces with Segmented Pushing Trajectories</div>
+    <div style="font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;"><a href="https://arxiv.org/abs/2608.00730" target="_blank" rel="noopener noreferrer" style="color: #D9534F; text-decoration: none;">Push-Wiper: Toward General-Purpose Robotic Cleaning across Varied Stains and Surfaces with Segmented Pushing Trajectories</a></div>
     <div style="font-size: 1.05em;">
       Renhao Lu<sup>&dagger;</sup>, <b>Mingxin Wang<sup>&dagger;</sup></b>, Chenyang Cao, Yang Yang, Guoping Pan, Kangkang Dong, Yi Cheng, Houde Liu<sup>*</sup><br>
       <span style="color: #666;"><sup>&dagger;</sup> Equal contribution; <sup>*</sup> Corresponding author</span><br>
       <i>Accepted to IROS 2026</i><br>
+      <a href="https://arxiv.org/abs/2608.00730" target="_blank" rel="noopener noreferrer">arXiv</a> /
+      <a href="https://push-wiper.github.io/" target="_blank" rel="noopener noreferrer">Website</a><br>
       <p style="margin-top: 8px; color: #555; line-height: 1.5;">Redefines viscous stain cleaning as an aggregation-post-processing task and enables zero-shot generalization for robotic cleaning on unseen stains and surfaces.</p>
     </div>
   </div>
