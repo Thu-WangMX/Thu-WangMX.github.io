@@ -328,7 +328,7 @@ Wechat: SpidyWWW666
 <a href="/files/mainstream-wam-report-v0.2.pdf" target="_blank" rel="noopener noreferrer" style="color:#D9534F; text-decoration:none;">Mainstream WAM Evaluation Report</a>
 </div>
 <div style="font-size:1.05em;">
-<a href="/files/mainstream-wam-report-v0.2.pdf" target="_blank" rel="noopener noreferrer">PDF</a> / <span style="color:#666;">from Simple AI and Tuojing AI</span><br>
+<a href="/files/mainstream-wam-report-v0.2.pdf" target="_blank" rel="noopener noreferrer">PDF</a> / <span style="color:#666;">from <a href="https://cloud.simpleai.tech/simple-world-lab/" target="_blank" rel="noopener noreferrer">Simple AI</a> and Tuojing AI</span><br>
 <p style="margin-top:8px; color:#555; line-height:1.5;">Benchmarks mainstream World Action Models under unified LIBERO and LIBERO-Plus protocols, analyzing standard-task performance, OOD generalization, inference efficiency, 3D capability, and failure taxonomies.</p>
 </div>
 </div>
