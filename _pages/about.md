@@ -223,7 +223,8 @@ Wechat: SpidyWWW666
       <span style="color: #666;"><sup>*</sup> Corresponding author</span><br>
       <i>Accepted to IROS 2026</i><br>
       <a href="https://arxiv.org/abs/2603.08342" target="_blank" rel="noopener noreferrer">arXiv</a> /
-      <a href="https://thu-wangmx.github.io/phaforce/" target="_blank" rel="noopener noreferrer">Code</a><br>
+      <a href="https://thu-wangmx.github.io/phaforce/" target="_blank" rel="noopener noreferrer">Code</a> /
+      <a href="https://huggingface.co/datasets/wangmingxinthu/PhaForce-Dataset" target="_blank" rel="noopener noreferrer">Dataset</a><br>
       <p style="margin-top: 8px; color: #555; line-height: 1.5;">Proposes a phase-scheduled visual-force policy that integrates low-frequency diffusion planning and high-frequency residual force correction for contact-rich robotic manipulation tasks.</p>
     </div>
   </div>
