@@ -73,7 +73,7 @@ Wechat: SpidyWWW666
   </td>
   <td style="border:none; vertical-align:top;">
     <a href="https://github.com/TuojingAI" target="_blank" rel="noopener noreferrer"><strong>TuojingAI</strong></a> | Remote Research Intern <br>
-    <em>2026.05 - Present</em>
+    <em>2026.05 - 2026.08</em>
     <ul>
       <li>Research focus: Visual-touch integration &amp; Simulation evaluation</li>
     </ul>
@@ -99,7 +99,7 @@ Wechat: SpidyWWW666
     </td>
     <td style="border:none; vertical-align:top;">
       <a href="https://re.1688.com/" target="_blank" rel="noopener noreferrer"><strong>Alibaba Group - Amap</strong></a> | Multimodal LLM Algorithm Intern <br>
-      <em>2026.03 - Present</em>
+      <em>2026.03 - 2026.08</em>
       <ul>
         <li>Research focus: World Model & World Action Model</li>
       </ul>
