@@ -11,7 +11,7 @@ redirect_from:
 
   🔬 My research interests primarily focus on <span style="color: #0066cc; font-weight: 700;">Robot learning and World Model</span>. I am dedicated to enabling robots with more versatile and delicate perception and manipulation capabilities in the complex physical world.
 
-🤖 Currently, I am a MLLM Algorithm Intern at the <a href="https://mp.weixin.qq.com/s/OPs42aBRZj2krErlNORZ4A" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">CV Lab of Amap, Alibaba Group.</a> Feel free to contact me!
+🤖 Currently, I am a Research Intern at <a href="https://www.spirit-ai.com/" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">Spirit AI</a>, working on world models and memory for robotic manipulation, mentored by <a href="https://yingdong-hu.github.io/" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">Yingdong Hu</a>. Feel free to contact me!
 
 Wechat: SpidyWWW666
 
@@ -69,6 +69,33 @@ Wechat: SpidyWWW666
 
 <tr style="border:none;">
   <td style="width:80px; border:none; vertical-align:top;">
+    <img src="/images/spirit-ai.svg" width="60" height="60" style="display:block; margin-top:5px; box-sizing:border-box; object-fit:contain; padding:16px 5px; border-radius:6px; background:#18212b;">
+  </td>
+  <td style="border:none; vertical-align:top;">
+    <a href="https://www.spirit-ai.com/" target="_blank" rel="noopener noreferrer"><strong>Spirit AI</strong></a> | Research Intern <br>
+    <em>2026.09 - Present</em>
+    <ul>
+      <li>Research focus: World Models &amp; Memory for Robotic Manipulation</li>
+      <li>Mentored by <a href="https://yingdong-hu.github.io/" target="_blank" rel="noopener noreferrer">Yingdong Hu</a></li>
+    </ul>
+  </td>
+</tr>
+
+<tr style="border:none;">
+  <td style="width:80px; border:none; vertical-align:top;">
+    <img src="/images/thu.png" width="60" style="display:block; margin-top:5px;">
+  </td>
+  <td style="border:none; vertical-align:top;">
+    <a href="https://air.tsinghua.edu.cn/" target="_blank" rel="noopener noreferrer"><strong>Tsinghua University - AIR</strong></a> | Remote Research Intern <br>
+    <em>2026.04 - Present</em>
+    <ul>
+      <li>Research focus: World Action Model &amp; Tactile perception</li>
+    </ul>
+  </td>
+</tr>
+
+<tr style="border:none;">
+  <td style="width:80px; border:none; vertical-align:top;">
     <img src="/images/tuojing.png" width="60" style="display:block; margin-top:5px;">
   </td>
   <td style="border:none; vertical-align:top;">
@@ -79,19 +106,6 @@ Wechat: SpidyWWW666
     </ul>
   </td>
 </tr>
-
-<tr style="border:none;">
-    <td style="width:80px; border:none; vertical-align:top;">
-      <img src="/images/thu.png" width="60" style="display:block; margin-top:5px;">
-    </td>
-    <td style="border:none; vertical-align:top;">
-      <a href="https://air.tsinghua.edu.cn/" target="_blank" rel="noopener noreferrer"><strong>Tsinghua University - AIR</strong></a> | Remote Research Intern <br>
-      <em>2026.04 - Present</em>
-      <ul>
-        <li>Research focus: World Action Model & Tactile perception</li>
-      </ul>
-    </td>
-  </tr>
 
   <tr style="border:none;">
     <td style="width:80px; border:none; vertical-align:top;">
