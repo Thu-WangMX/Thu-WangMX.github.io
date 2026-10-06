@@ -18,6 +18,7 @@ Wechat: SpidyWWW666
 ---
 
 ## 🔥 News
+- **[2026.10]** We release <a href="https://enyi-bean.github.io/TacDyn-WAM-Page/" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">TacDyn-WAM</a>, with the <a href="https://arxiv.org/abs/2610.00638" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">paper</a> available.
 - **[2026.08]** <a href="https://softvtbench.github.io/" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">SoftVTBench</a> is accepted to the <a href="https://trustworthy-world-models.github.io/ECCV2026/" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">Safe World Models for Trustworthy Embodied AI Workshop @ ECCV 2026</a> as an <span style="color: #0066cc; font-weight: 700;">Oral Presentation</span>.
 - **[2026.08]** We release <a href="https://thu-wangmx.github.io/st-wam/" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">ST-WAM</a>, with <a href="https://arxiv.org/abs/2607.28993" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">paper</a> and <a href="https://github.com/Thu-WangMX/ST-WAM-Semantic-Temporal-World-Action-Model" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">code</a> available.
 - **[2026.07]** We release <a href="https://softvtbench.github.io/" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">SoftVTBench</a>, with <a href="https://arxiv.org/abs/2608.18701" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">paper</a> and <a href="https://github.com/TuojingAI/SoftVTBench" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 700;">code</a> available.
@@ -181,6 +182,21 @@ Wechat: SpidyWWW666
 </div>
 
 <div id="publication-list">
+
+<div id="tacdyn-wam" class="publication-item is-representative" style="display: flex; align-items: flex-start; margin-bottom: 32px; gap: 30px;">
+  <img src="/images/tacdyn-wam.png" alt="TacDyn-WAM architecture" style="width: 240px; height: 160px; object-fit: contain; background: #fff; flex-shrink: 0; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+  <div style="flex: 1;">
+    <div style="font-weight: bold; font-size: 1.25em; line-height: 1.3; margin-bottom: 6px;"><a href="https://arxiv.org/abs/2610.00638" target="_blank" rel="noopener noreferrer" style="color: #D9534F; text-decoration: none;">TacDyn-WAM: Learning Implicit Tactile Dynamics in a Heterogeneous Visuo-Tactile World Action Model</a></div>
+    <div style="font-size: 1.05em;">
+      Enyi Wang, <b>Mingxin Wang</b>, Quan Shi, Hetian Guo, Hongyu Wang, Xi Wang, Bin Qian, Yupeng Zheng, Wenxuan Song, Houde Liu, Yong Xu, Cheng Chi, Wenchao Ding, Yilun Chen, Yan Wang<sup>*</sup><br>
+      <span style="color: #666;"><sup>*</sup> Corresponding author</span><br>
+      <i>arXiv preprint</i><br>
+      <a href="https://arxiv.org/abs/2610.00638" target="_blank" rel="noopener noreferrer">arXiv</a> /
+      <a href="https://enyi-bean.github.io/TacDyn-WAM-Page/" target="_blank" rel="noopener noreferrer">Website</a><br>
+      <p style="margin-top: 8px; color: #555; line-height: 1.5;">Introduces a heterogeneous visuo-tactile world action model that predicts multi-horizon tactile dynamics in a learned representation space, improving contact-rich manipulation without reconstructing future tactile images.</p>
+    </div>
+  </div>
+</div>
 
 <div id="st-wam" class="publication-item is-representative" style="display: flex; align-items: flex-start; margin-bottom: 32px; gap: 30px;">
   <img src="/images/st-wam.png" alt="ST-WAM" style="width: 240px; height: 160px; object-fit: contain; background: #fff; flex-shrink: 0; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
