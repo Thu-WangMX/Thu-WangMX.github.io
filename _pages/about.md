@@ -91,6 +91,7 @@ Wechat: SpidyWWW666
     <em>2026.04 - Present</em>
     <ul>
       <li>Research focus: World Action Model &amp; Tactile perception</li>
+      <li>Mentored by <a href="https://yanwang202199.github.io/" target="_blank" rel="noopener noreferrer">Yan Wang</a></li>
     </ul>
   </td>
 </tr>
@@ -104,6 +105,7 @@ Wechat: SpidyWWW666
     <em>2026.05 - 2026.08</em>
     <ul>
       <li>Research focus: Visual-touch integration &amp; Simulation evaluation</li>
+      <li>Mentored by <a href="https://scholar.google.com/citations?user=JW4F5HoAAAAJ" target="_blank" rel="noopener noreferrer">Haibao Yu</a> and <a href="https://wt-zhou.github.io/" target="_blank" rel="noopener noreferrer">Weitao Zhou</a></li>
     </ul>
   </td>
 </tr>
@@ -117,6 +119,7 @@ Wechat: SpidyWWW666
       <em>2026.03 - 2026.08</em>
       <ul>
         <li>Research focus: World Model & World Action Model</li>
+        <li>Mentored by <a href="https://dblp.org/pid/177/6616.html" target="_blank" rel="noopener noreferrer">Tianlun Li</a> and <a href="https://scholar.google.com/citations?user=JGi4S0EAAAAJ" target="_blank" rel="noopener noreferrer">Mu Xu</a></li>
       </ul>
     </td>
   </tr>
@@ -130,6 +133,7 @@ Wechat: SpidyWWW666
       <em>2025.03 - 2026.03</em>
       <ul>
         <li>Research focus: VLA for contact-rich manipulation & Real World RL</li>
+        <li>Mentored by <a href="https://aiforgood.itu.int/speaker/guoping-pan/" target="_blank" rel="noopener noreferrer">Guoping Pan</a> and <a href="https://chengeeee.github.io/" target="_blank" rel="noopener noreferrer">Yi Cheng</a></li>
       </ul>
     </td>
   </tr>
