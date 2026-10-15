@@ -229,7 +229,9 @@ Wechat: SpidyWWW666
       <i>arXiv preprint</i><br>
       <a href="https://arxiv.org/abs/2608.18701" target="_blank" rel="noopener noreferrer">arXiv</a> /
       <a href="https://github.com/TuojingAI/SoftVTBench" target="_blank" rel="noopener noreferrer">Code</a> /
-      <a href="https://softvtbench.github.io/" target="_blank" rel="noopener noreferrer">Website</a><br>
+      <a href="https://softvtbench.github.io/" target="_blank" rel="noopener noreferrer">Website</a> /
+      <a href="https://huggingface.co/datasets/Arthur12137/SoftVTBench" target="_blank" rel="noopener noreferrer">Dataset (Hugging Face)</a> /
+      <a href="https://modelscope.cn/datasets/Arthur12137/SoftVTBench" target="_blank" rel="noopener noreferrer">Dataset (ModelScope)</a><br>
       <p style="margin-top: 8px; color: #555; line-height: 1.5;">Introduces a safety-aware visuo-tactile benchmark for deformable object manipulation, evaluating both task success and physically safe interaction under contact-rich constraints.</p>
     </div>
   </div>
@@ -243,7 +245,9 @@ Wechat: SpidyWWW666
       AMAP CV Lab<br>
       <i>arXiv preprint</i><br>
       <a href="https://arxiv.org/abs/2607.00678" target="_blank" rel="noopener noreferrer">arXiv</a> /
-      <a href="https://github.com/amap-cvlab/ABot-Manipulation" target="_blank" rel="noopener noreferrer">Code</a><br>
+      <a href="https://github.com/amap-cvlab/ABot-Manipulation" target="_blank" rel="noopener noreferrer">Code</a> /
+      <a href="https://amap-cvlab.github.io/ABot-Manipulation/" target="_blank" rel="noopener noreferrer">Website</a> /
+      <a href="https://huggingface.co/acvlab" target="_blank" rel="noopener noreferrer">Model Weights</a><br>
       <p style="margin-top: 8px; color: #555; line-height: 1.5;">Presents a unified world action model for mobility-and-manipulation tasks with temporal, action-space, and train-test alignment.</p>
     </div>
   </div>
